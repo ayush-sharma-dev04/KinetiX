@@ -1,0 +1,1176 @@
+timestamp,torso_angle,smoothed_torso_angle,hip_tilt_angle,shoulder_tilt_angle,neck_angle,visibility,state,rep_count,form_status,feedback
+0,59.3,59.3,136.2,149.0,44.4,0.624,DOWN,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+33,56.2,57.7,133.3,148.5,41.1,0.632,DOWN,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+66,53.4,56.3,127.3,148.1,39.9,0.633,DOWN,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+100,49.9,54.7,119.4,146.5,37.9,0.636,CRUNCHING,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+133,48.2,53.4,116.3,144.6,36.8,0.637,CRUNCHING,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+166,47.7,52.4,115.8,143.5,36.9,0.639,CRUNCHING,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+200,47.4,51.7,117.1,142.6,35.7,0.641,CRUNCHING,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+233,46.6,49.9,115.8,142.2,34.9,0.648,UP,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+266,46.5,48.5,115.1,141.6,37.1,0.652,UP,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+300,46.0,47.5,115.1,141.3,36.5,0.659,UP,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+333,45.6,46.9,114.1,140.6,35.1,0.668,UP,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+366,45.9,46.5,114.7,140.6,35.3,0.677,UP,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+400,46.0,46.3,114.6,140.6,34.5,0.687,UP,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+433,45.7,46.0,114.2,140.4,34.1,0.697,UP,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+466,45.1,45.8,113.5,139.0,30.9,0.705,UP,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+500,44.4,45.5,112.4,138.2,25.7,0.715,UP,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+533,44.4,45.3,111.3,137.4,19.1,0.724,UP,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+566,44.8,45.2,111.4,137.5,18.0,0.731,UP,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+600,45.5,45.1,110.5,138.4,14.3,0.739,UP,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+633,46.2,45.2,111.2,138.6,14.6,0.748,UP,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+666,47.2,45.4,110.6,138.3,13.0,0.758,UP,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+700,47.6,45.7,110.6,139.4,13.3,0.769,UP,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+733,47.5,46.2,110.5,138.8,9.9,0.781,UP,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+766,47.4,46.6,105.6,135.9,5.5,0.794,UP,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+800,47.0,46.9,102.6,133.7,1.4,0.807,UP,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+833,46.4,47.1,98.6,130.9,3.3,0.819,UP,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+866,45.7,47.0,96.8,130.2,3.7,0.829,UP,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+900,43.1,46.4,92.0,128.1,8.7,0.836,UP,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+933,41.6,45.5,91.7,127.6,9.3,0.839,UP,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+966,38.7,44.3,88.9,124.4,15.7,0.838,UP,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+1000,37.3,42.8,86.3,117.5,20.1,0.832,UP,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+1033,36.8,41.4,86.3,115.8,21.0,0.82,UP,0,FORM ISSUE,Don't pull neck - lead with chest
+1066,37.0,40.0,88.1,114.7,20.7,0.803,UP,0,FORM ISSUE,Don't pull neck - lead with chest
+1100,37.3,38.8,84.7,112.3,22.1,0.783,UP,0,FORM ISSUE,Don't pull neck - lead with chest
+1133,37.9,38.1,87.3,110.2,22.4,0.76,UP,0,FORM ISSUE,Don't pull neck - lead with chest
+1166,37.9,37.5,93.7,113.8,22.9,0.736,UP,0,FORM ISSUE,Don't pull neck - lead with chest
+1200,36.7,37.3,94.9,115.4,24.5,0.71,UP,0,FORM ISSUE,Don't pull neck - lead with chest
+1233,34.7,36.9,92.3,119.8,17.9,0.684,UP,0,FORM ISSUE,Don't pull neck - lead with chest
+1266,32.0,36.2,92.7,116.2,10.7,0.661,UP,0,FORM ISSUE,Don't pull neck - lead with chest
+1300,23.3,34.3,92.7,112.9,7.1,0.644,UP,0,FORM ISSUE,Don't pull neck - lead with chest
+1333,15.1,31.1,93.1,111.8,32.0,0.632,UP,0,FORM ISSUE,Don't pull neck - lead with chest
+1366,10.4,27.2,93.8,117.3,14.1,0.627,UP,0,FORM ISSUE,Don't pull neck - lead with chest
+1400,7.1,22.8,95.3,120.1,21.6,0.622,UP,0,FORM ISSUE,Don't pull neck - lead with chest
+1433,5.7,18.3,89.9,104.3,26.9,0.619,UP,0,FORM ISSUE,Don't pull neck - lead with chest
+1466,3.7,13.9,93.4,108.6,24.7,0.62,UP,0,FORM ISSUE,Don't pull neck - lead with chest
+1500,1.7,9.6,93.4,110.2,33.8,0.619,UP,0,FORM ISSUE,Don't pull neck - lead with chest
+1533,0.9,6.4,79.7,110.4,39.3,0.611,RELEASING,0,FORM ISSUE,Keep hips grounded and level
+1566,1.4,4.4,76.7,108.8,42.7,0.595,RELEASING,0,FORM ISSUE,Keep hips grounded and level
+1600,0.3,3.0,79.6,112.0,61.0,0.574,RELEASING,0,FORM ISSUE,Keep hips grounded and level
+1633,1.1,2.1,81.3,107.4,49.0,0.551,RELEASING,0,FORM ISSUE,Keep hips grounded and level
+1666,2.9,1.7,79.7,110.0,40.5,0.527,DOWN,1,FORM ISSUE,Keep hips grounded and level
+1700,,,,,,0.499,DOWN,1,LOW CONFIDENCE,Adjust camera view
+1733,,,,,,0.471,DOWN,1,LOW CONFIDENCE,Adjust camera view
+1766,,,,,,0.449,DOWN,1,LOW CONFIDENCE,Adjust camera view
+1800,,,,,,0.429,DOWN,1,LOW CONFIDENCE,Adjust camera view
+1833,,,,,,0.409,DOWN,1,LOW CONFIDENCE,Adjust camera view
+1866,,,,,,0.392,DOWN,1,LOW CONFIDENCE,Adjust camera view
+1900,,,,,,0.378,DOWN,1,LOW CONFIDENCE,Adjust camera view
+1933,,,,,,0.365,DOWN,1,LOW CONFIDENCE,Adjust camera view
+1966,,,,,,0.352,DOWN,1,LOW CONFIDENCE,Adjust camera view
+2000,,,,,,0.34,DOWN,1,LOW CONFIDENCE,Adjust camera view
+2033,,,,,,0.329,DOWN,1,LOW CONFIDENCE,Adjust camera view
+2066,,,,,,0.32,DOWN,1,LOW CONFIDENCE,Adjust camera view
+2100,,,,,,0.311,DOWN,1,LOW CONFIDENCE,Adjust camera view
+2133,,,,,,0.302,DOWN,1,LOW CONFIDENCE,Adjust camera view
+2166,,,,,,0.295,DOWN,1,LOW CONFIDENCE,Adjust camera view
+2200,,,,,,0.289,DOWN,1,LOW CONFIDENCE,Adjust camera view
+2233,,,,,,0.284,DOWN,1,LOW CONFIDENCE,Adjust camera view
+2266,,,,,,0.279,DOWN,1,LOW CONFIDENCE,Adjust camera view
+2300,,,,,,0.274,DOWN,1,LOW CONFIDENCE,Adjust camera view
+2333,,,,,,0.27,DOWN,1,LOW CONFIDENCE,Adjust camera view
+2366,,,,,,0.267,DOWN,1,LOW CONFIDENCE,Adjust camera view
+2400,,,,,,0.263,DOWN,1,LOW CONFIDENCE,Adjust camera view
+2433,,,,,,0.258,DOWN,1,LOW CONFIDENCE,Adjust camera view
+2466,,,,,,0.255,DOWN,1,LOW CONFIDENCE,Adjust camera view
+2500,,,,,,0.252,DOWN,1,LOW CONFIDENCE,Adjust camera view
+2533,,,,,,0.249,DOWN,1,LOW CONFIDENCE,Adjust camera view
+2566,,,,,,0.247,DOWN,1,LOW CONFIDENCE,Adjust camera view
+2600,,,,,,0.246,DOWN,1,LOW CONFIDENCE,Adjust camera view
+2633,,,,,,0.245,DOWN,1,LOW CONFIDENCE,Adjust camera view
+2666,,,,,,0.244,DOWN,1,LOW CONFIDENCE,Adjust camera view
+2700,,,,,,0.244,DOWN,1,LOW CONFIDENCE,Adjust camera view
+2733,,,,,,0.242,DOWN,1,LOW CONFIDENCE,Adjust camera view
+2766,,,,,,0.241,DOWN,1,LOW CONFIDENCE,Adjust camera view
+2800,,,,,,0.239,DOWN,1,LOW CONFIDENCE,Adjust camera view
+2833,,,,,,0.237,DOWN,1,LOW CONFIDENCE,Adjust camera view
+2866,,,,,,0.234,DOWN,1,LOW CONFIDENCE,Adjust camera view
+2900,,,,,,0.231,DOWN,1,LOW CONFIDENCE,Adjust camera view
+2933,,,,,,0.227,DOWN,1,LOW CONFIDENCE,Adjust camera view
+2966,,,,,,0.225,DOWN,1,LOW CONFIDENCE,Adjust camera view
+3000,,,,,,0.223,DOWN,1,LOW CONFIDENCE,Adjust camera view
+3033,,,,,,0.221,DOWN,1,LOW CONFIDENCE,Adjust camera view
+3066,,,,,,0.22,DOWN,1,LOW CONFIDENCE,Adjust camera view
+3100,,,,,,0.219,DOWN,1,LOW CONFIDENCE,Adjust camera view
+3133,,,,,,0.218,DOWN,1,LOW CONFIDENCE,Adjust camera view
+3166,,,,,,0.218,DOWN,1,LOW CONFIDENCE,Adjust camera view
+3200,,,,,,0.221,DOWN,1,LOW CONFIDENCE,Adjust camera view
+3233,,,,,,0.228,DOWN,1,LOW CONFIDENCE,Adjust camera view
+3266,,,,,,0.24,DOWN,1,LOW CONFIDENCE,Adjust camera view
+3300,,,,,,0.255,DOWN,1,LOW CONFIDENCE,Adjust camera view
+3333,,,,,,0.27,DOWN,1,LOW CONFIDENCE,Adjust camera view
+3366,,,,,,0.286,DOWN,1,LOW CONFIDENCE,Adjust camera view
+3400,,,,,,0.307,DOWN,1,LOW CONFIDENCE,Adjust camera view
+3433,,,,,,0.324,DOWN,1,LOW CONFIDENCE,Adjust camera view
+3466,,,,,,0.335,DOWN,1,LOW CONFIDENCE,Adjust camera view
+3500,,,,,,0.34,DOWN,1,LOW CONFIDENCE,Adjust camera view
+3533,,,,,,0.341,DOWN,1,LOW CONFIDENCE,Adjust camera view
+3566,,,,,,0.341,DOWN,1,LOW CONFIDENCE,Adjust camera view
+3600,,,,,,0.345,DOWN,1,LOW CONFIDENCE,Adjust camera view
+3633,,,,,,0.344,DOWN,1,LOW CONFIDENCE,Adjust camera view
+3666,,,,,,0.343,DOWN,1,LOW CONFIDENCE,Adjust camera view
+3700,,,,,,0.347,DOWN,1,LOW CONFIDENCE,Adjust camera view
+3733,,,,,,0.354,DOWN,1,LOW CONFIDENCE,Adjust camera view
+3766,,,,,,0.366,DOWN,1,LOW CONFIDENCE,Adjust camera view
+3800,,,,,,0.38,DOWN,1,LOW CONFIDENCE,Adjust camera view
+3833,,,,,,0.395,DOWN,1,LOW CONFIDENCE,Adjust camera view
+3866,,,,,,0.413,DOWN,1,LOW CONFIDENCE,Adjust camera view
+3900,,,,,,0.436,DOWN,1,LOW CONFIDENCE,Adjust camera view
+3933,,,,,,0.458,DOWN,1,LOW CONFIDENCE,Adjust camera view
+3966,,,,,,0.479,DOWN,1,LOW CONFIDENCE,Adjust camera view
+4000,,,,,,0.495,DOWN,1,LOW CONFIDENCE,Adjust camera view
+4033,34.7,6.2,98.8,141.0,5.2,0.509,DOWN,1,FORM ISSUE,Keep hips grounded and level
+4066,34.8,10.9,96.0,138.7,18.9,0.518,DOWN,1,FORM ISSUE,Keep hips grounded and level
+4100,35.7,15.9,96.8,139.7,16.4,0.523,DOWN,1,FORM ISSUE,Keep hips grounded and level
+4133,35.9,20.8,100.7,141.4,16.7,0.527,DOWN,1,FORM ISSUE,Keep hips grounded and level
+4166,35.2,25.8,102.8,142.5,21.2,0.529,CRUNCHING,1,FORM ISSUE,Don't pull neck - lead with chest
+4200,34.2,30.5,103.8,142.5,22.7,0.533,CRUNCHING,1,FORM ISSUE,Don't pull neck - lead with chest
+4233,31.8,34.6,105.9,142.5,10.2,0.54,CRUNCHING,1,FORM ISSUE,Don't pull neck - lead with chest
+4266,24.2,33.1,117.8,136.3,30.0,0.547,CRUNCHING,1,FORM ISSUE,Don't pull neck - lead with chest
+4300,19.1,30.9,116.3,132.4,12.9,0.558,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+4333,13.3,27.7,121.5,141.2,7.4,0.569,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+4366,12.3,24.3,121.4,135.2,0.7,0.572,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+4400,4.6,19.9,121.3,139.1,16.2,0.575,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+4433,4.1,15.6,118.2,139.3,16.6,0.576,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+4466,4.8,11.8,111.0,141.1,25.0,0.569,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+4500,6.6,9.3,111.4,125.1,20.3,0.558,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+4533,4.6,7.2,100.8,123.0,33.3,0.542,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+4566,5.1,6.0,103.3,125.9,37.6,0.524,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+4600,3.0,4.7,102.0,123.4,40.3,0.511,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+4633,,,,,,0.498,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+4666,,,,,,0.493,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+4700,,,,,,0.494,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+4733,,,,,,0.497,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+4766,,,,,,0.499,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+4800,,,,,,0.5,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+4833,,,,,,0.499,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+4866,,,,,,0.496,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+4900,,,,,,0.488,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+4933,,,,,,0.477,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+4966,,,,,,0.469,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+5000,,,,,,0.462,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+5033,,,,,,0.457,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+5066,,,,,,0.462,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+5100,,,,,,0.466,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+5133,,,,,,0.471,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+5166,,,,,,0.476,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+5200,,,,,,0.483,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+5233,,,,,,0.493,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+5266,11.0,5.6,124.3,120.0,17.6,0.508,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+5300,13.3,6.9,122.6,116.6,27.6,0.521,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+5333,15.2,8.4,121.9,124.7,5.9,0.538,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+5366,19.2,10.2,110.1,130.8,18.4,0.554,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+5400,20.9,12.5,106.7,129.8,13.9,0.572,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+5433,24.2,15.3,111.4,148.4,13.2,0.588,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+5466,27.0,18.7,115.6,155.6,21.6,0.605,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+5500,29.6,21.3,109.0,145.9,16.7,0.616,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+5533,32.7,24.1,108.8,145.4,21.3,0.623,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+5566,36.5,27.2,106.8,147.5,23.4,0.623,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+5600,40.7,30.2,115.5,150.6,18.3,0.624,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+5633,43.6,33.5,121.6,149.3,17.0,0.622,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+5666,45.5,36.5,112.6,148.4,14.6,0.622,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+5700,44.3,39.0,112.9,147.9,13.6,0.62,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+5733,43.0,40.9,109.5,147.5,15.0,0.615,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+5766,41.8,42.2,114.9,149.9,18.4,0.613,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+5800,38.7,42.5,112.6,143.6,17.0,0.614,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+5833,35.9,41.8,108.8,138.5,21.9,0.615,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+5866,30.1,39.9,109.5,143.7,14.7,0.616,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+5900,24.7,36.9,111.5,133.7,4.1,0.616,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+5933,19.4,33.4,111.6,128.4,39.5,0.617,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+5966,9.5,28.6,115.8,132.8,15.4,0.619,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+6000,4.3,23.2,111.8,125.2,15.2,0.622,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+6033,4.6,18.4,113.0,130.4,22.0,0.617,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+6066,7.2,14.3,104.3,113.0,44.0,0.609,UP,1,FORM ISSUE,Keep hips grounded and level
+6100,7.2,11.0,103.7,113.2,55.0,0.599,UP,1,FORM ISSUE,Keep hips grounded and level
+6133,5.3,8.2,94.1,108.2,61.1,0.583,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+6166,6.1,6.3,94.2,109.5,64.4,0.561,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+6200,6.6,5.9,101.8,115.0,67.6,0.535,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+6233,6.8,6.3,113.2,114.0,78.2,0.51,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+6266,,,,,,0.489,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+6300,,,,,,0.472,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+6333,,,,,,0.455,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+6366,,,,,,0.44,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+6400,,,,,,0.429,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+6433,,,,,,0.42,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+6466,,,,,,0.407,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+6500,,,,,,0.395,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+6533,,,,,,0.38,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+6566,,,,,,0.368,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+6600,,,,,,0.361,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+6633,,,,,,0.353,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+6666,,,,,,0.357,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+6700,,,,,,0.367,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+6733,,,,,,0.377,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+6766,,,,,,0.389,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+6800,,,,,,0.404,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+6833,,,,,,0.42,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+6866,,,,,,0.441,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+6900,,,,,,0.457,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+6933,,,,,,0.473,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+6966,,,,,,0.492,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+7000,44.0,11.9,112.4,148.3,18.4,0.511,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+7033,46.4,17.5,118.5,150.1,20.0,0.53,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+7066,47.9,23.3,116.4,153.9,20.1,0.545,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+7100,50.2,29.7,115.2,155.2,19.1,0.56,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+7133,53.0,36.4,122.0,157.1,17.7,0.573,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+7166,53.5,43.1,121.6,159.8,15.9,0.586,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+7200,54.0,49.9,117.5,159.2,18.3,0.598,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+7233,55.1,51.4,116.1,161.0,19.9,0.61,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+7266,55.4,52.7,115.2,158.9,12.7,0.622,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+7300,56.3,53.9,117.7,158.5,12.2,0.636,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+7333,56.5,54.8,117.1,158.5,10.4,0.649,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+7366,56.2,55.3,118.1,159.1,11.1,0.661,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+7400,56.1,55.6,122.3,157.2,11.8,0.672,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+7433,55.2,55.8,120.4,155.3,10.3,0.686,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+7466,54.2,55.7,120.3,151.5,11.2,0.703,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+7500,52.1,55.2,118.3,152.4,2.9,0.716,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+7533,49.9,54.3,112.9,145.4,22.2,0.728,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+7566,45.1,52.7,111.6,135.2,16.9,0.74,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+7600,38.0,50.1,106.9,137.5,8.6,0.75,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+7633,28.9,46.2,106.7,137.0,3.4,0.758,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+7666,21.2,41.4,104.2,130.0,44.4,0.764,UP,1,FORM ISSUE,Keep hips grounded and level
+7700,11.5,35.2,106.8,125.5,22.0,0.766,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+7733,7.0,28.8,113.3,128.8,15.9,0.765,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+7766,5.9,22.5,107.5,135.2,20.5,0.756,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+7800,7.4,17.1,106.8,119.4,33.3,0.74,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+7833,9.8,13.1,113.9,115.3,40.1,0.719,UP,1,FORM ISSUE,Keep hips grounded and level
+7866,9.8,10.4,104.7,114.6,53.3,0.693,UP,1,FORM ISSUE,Keep hips grounded and level
+7900,8.0,8.5,106.9,117.0,45.8,0.671,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+7933,7.4,7.9,103.4,114.3,52.5,0.645,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+7966,7.7,8.0,115.7,116.2,55.0,0.622,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+8000,6.2,8.0,120.7,114.2,58.2,0.608,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+8033,6.7,7.9,119.2,115.6,51.5,0.6,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+8066,7.5,7.6,119.8,114.1,50.8,0.597,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+8100,7.6,7.3,115.4,113.2,50.1,0.597,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+8133,6.7,7.1,112.5,115.5,51.7,0.591,DOWN,2,FORM ISSUE,Keep hips grounded and level
+8166,6.2,6.9,112.7,114.6,49.3,0.585,DOWN,2,FORM ISSUE,Keep hips grounded and level
+8200,6.4,6.7,114.0,117.2,52.9,0.585,DOWN,2,FORM ISSUE,Keep hips grounded and level
+8233,7.2,6.9,114.9,116.8,56.2,0.585,DOWN,2,FORM ISSUE,Keep hips grounded and level
+8266,7.9,7.1,116.1,112.6,60.3,0.587,DOWN,2,FORM ISSUE,Keep hips grounded and level
+8300,8.3,7.2,121.5,112.8,58.9,0.592,DOWN,2,FORM ISSUE,Keep hips grounded and level
+8333,8.7,7.3,122.9,110.8,57.7,0.602,DOWN,2,FORM ISSUE,Keep hips grounded and level
+8366,8.2,7.5,123.7,114.2,56.3,0.616,DOWN,2,FORM ISSUE,Keep hips grounded and level
+8400,7.8,7.8,119.5,110.6,58.2,0.63,DOWN,2,FORM ISSUE,Keep hips grounded and level
+8433,7.9,8.0,117.6,110.7,56.4,0.641,DOWN,2,FORM ISSUE,Keep hips grounded and level
+8466,7.8,8.1,116.4,111.2,57.3,0.647,DOWN,2,FORM ISSUE,Keep hips grounded and level
+8500,6.8,7.9,115.6,113.0,52.2,0.652,DOWN,2,FORM ISSUE,Keep hips grounded and level
+8533,7.0,7.7,118.1,109.7,53.2,0.654,DOWN,2,FORM ISSUE,Keep hips grounded and level
+8566,7.1,7.5,116.7,110.9,55.0,0.653,DOWN,2,FORM ISSUE,Keep hips grounded and level
+8600,6.6,7.3,115.7,116.1,53.0,0.648,DOWN,2,FORM ISSUE,Keep hips grounded and level
+8633,6.6,7.1,116.5,113.5,52.1,0.649,DOWN,2,FORM ISSUE,Keep hips grounded and level
+8666,6.9,7.0,116.3,114.1,53.4,0.649,DOWN,2,FORM ISSUE,Keep hips grounded and level
+8700,6.7,6.8,116.5,114.8,53.5,0.653,DOWN,2,FORM ISSUE,Keep hips grounded and level
+8733,7.1,6.9,118.0,114.5,51.4,0.656,DOWN,2,FORM ISSUE,Keep hips grounded and level
+8766,7.0,6.9,113.7,115.4,53.7,0.657,DOWN,2,FORM ISSUE,Keep hips grounded and level
+8800,7.1,6.8,108.6,112.1,49.9,0.652,DOWN,2,FORM ISSUE,Keep hips grounded and level
+8833,7.3,6.9,107.3,111.2,54.7,0.652,DOWN,2,FORM ISSUE,Keep hips grounded and level
+8866,8.5,7.2,109.5,110.6,59.3,0.651,DOWN,2,FORM ISSUE,Keep hips grounded and level
+8900,9.6,7.6,112.8,106.6,63.8,0.653,DOWN,2,FORM ISSUE,Keep hips grounded and level
+8933,8.3,7.8,112.0,107.7,58.7,0.651,DOWN,2,FORM ISSUE,Keep hips grounded and level
+8966,7.0,7.8,111.7,103.8,53.4,0.648,DOWN,2,FORM ISSUE,Keep hips grounded and level
+9000,7.1,7.8,116.1,101.4,61.3,0.648,DOWN,2,FORM ISSUE,Keep hips grounded and level
+9033,7.2,7.9,115.4,101.7,64.8,0.654,DOWN,2,FORM ISSUE,Keep hips grounded and level
+9066,5.9,7.7,114.3,105.4,62.6,0.653,DOWN,2,FORM ISSUE,Keep hips grounded and level
+9100,6.7,7.4,112.2,106.5,66.9,0.645,DOWN,2,FORM ISSUE,Keep hips grounded and level
+9133,7.0,7.0,105.6,106.8,63.8,0.631,DOWN,2,FORM ISSUE,Keep hips grounded and level
+9166,5.5,6.6,111.8,104.7,44.8,0.62,DOWN,2,FORM ISSUE,Keep hips grounded and level
+9200,2.4,6.0,118.5,117.1,19.9,0.614,DOWN,2,FORM ISSUE,Keep hips grounded and level
+9233,4.4,5.6,153.8,155.9,5.7,0.604,DOWN,2,FORM ISSUE,Keep hips grounded and level
+9266,3.6,5.1,122.1,131.5,10.3,0.599,DOWN,2,FORM ISSUE,Keep hips grounded and level
+9300,10.5,5.7,112.3,118.6,32.1,0.602,DOWN,2,FORM ISSUE,Keep hips grounded and level
+9333,13.7,6.7,133.6,130.6,0.5,0.614,DOWN,2,FORM ISSUE,Keep hips grounded and level
+9366,17.7,8.2,135.8,130.5,10.2,0.634,DOWN,2,FORM ISSUE,Keep hips grounded and level
+9400,21.7,10.6,140.2,142.4,5.5,0.653,DOWN,2,FORM ISSUE,Keep hips grounded and level
+9433,23.4,13.6,124.8,134.8,11.5,0.67,DOWN,2,FORM ISSUE,Keep hips grounded and level
+9466,26.0,16.7,124.4,142.3,17.3,0.693,CRUNCHING,2,FORM ISSUE,Don't pull neck - lead with chest
+9500,26.2,19.9,121.5,140.9,2.7,0.712,CRUNCHING,2,FORM ISSUE,Don't pull neck - lead with chest
+9533,29.9,22.7,132.9,149.6,17.4,0.729,CRUNCHING,2,FORM ISSUE,Don't pull neck - lead with chest
+9566,33.5,25.5,134.1,163.5,18.9,0.738,CRUNCHING,2,FORM ISSUE,Don't pull neck - lead with chest
+9600,39.0,28.5,133.0,154.1,21.3,0.741,CRUNCHING,2,FORM ISSUE,Don't pull neck - lead with chest
+9633,41.9,31.4,131.0,152.2,23.6,0.737,UP,2,FORM ISSUE,Don't pull neck - lead with chest
+9666,45.9,34.6,120.8,152.1,25.2,0.73,UP,2,FORM ISSUE,Don't pull neck - lead with chest
+9700,47.5,37.7,120.7,154.2,19.4,0.719,UP,2,FORM ISSUE,Don't pull neck - lead with chest
+9733,47.2,40.7,115.8,152.7,17.2,0.707,UP,2,FORM ISSUE,Don't pull neck - lead with chest
+9766,47.1,43.2,119.0,153.5,13.3,0.696,UP,2,FORM ISSUE,Lifting too high - lift shoulder blades only
+9800,46.1,45.0,118.2,151.9,13.4,0.688,UP,2,FORM ISSUE,Lifting too high - lift shoulder blades only
+9833,45.7,45.9,111.4,148.7,13.2,0.682,UP,2,FORM ISSUE,Lifting too high - lift shoulder blades only
+9866,45.8,46.5,115.6,150.2,12.2,0.679,UP,2,FORM ISSUE,Lifting too high - lift shoulder blades only
+9900,45.2,46.4,113.2,152.8,9.4,0.679,UP,2,FORM ISSUE,Lifting too high - lift shoulder blades only
+9933,42.7,45.7,107.2,142.8,15.4,0.681,UP,2,FORM ISSUE,Lifting too high - lift shoulder blades only
+9966,41.1,44.8,105.1,136.6,20.5,0.679,UP,2,FORM ISSUE,Lifting too high - lift shoulder blades only
+10000,36.2,43.3,109.4,134.8,13.7,0.677,UP,2,FORM ISSUE,Lifting too high - lift shoulder blades only
+10033,28.3,40.7,111.1,138.8,2.1,0.679,UP,2,FORM ISSUE,Don't pull neck - lead with chest
+10066,18.5,36.8,121.1,129.3,44.1,0.684,UP,2,FORM ISSUE,Keep hips grounded and level
+10100,10.3,31.8,120.2,125.6,26.4,0.69,UP,2,FORM ISSUE,Don't pull neck - lead with chest
+10133,6.2,26.2,125.3,133.6,29.9,0.689,UP,2,FORM ISSUE,Don't pull neck - lead with chest
+10166,3.3,20.6,133.0,142.4,22.2,0.683,UP,2,FORM ISSUE,Don't pull neck - lead with chest
+10200,4.6,15.3,109.0,136.2,24.6,0.676,UP,2,FORM ISSUE,Don't pull neck - lead with chest
+10233,5.8,11.0,127.6,145.8,24.5,0.663,UP,2,FORM ISSUE,Don't pull neck - lead with chest
+10266,8.0,8.1,113.8,136.5,38.3,0.643,UP,2,FORM ISSUE,Don't pull neck - lead with chest
+10300,7.3,6.5,119.9,148.6,52.4,0.614,RELEASING,2,FORM ISSUE,Keep hips grounded and level
+10333,6.9,6.0,108.2,138.1,56.8,0.582,RELEASING,2,FORM ISSUE,Keep hips grounded and level
+10366,7.6,6.2,115.6,133.6,63.1,0.552,RELEASING,2,FORM ISSUE,Keep hips grounded and level
+10400,6.8,6.7,102.8,126.2,66.6,0.523,RELEASING,2,FORM ISSUE,Keep hips grounded and level
+10433,,,,,,0.493,RELEASING,2,LOW CONFIDENCE,Adjust camera view
+10466,,,,,,0.464,RELEASING,2,LOW CONFIDENCE,Adjust camera view
+10500,,,,,,0.44,RELEASING,2,LOW CONFIDENCE,Adjust camera view
+10533,,,,,,0.42,RELEASING,2,LOW CONFIDENCE,Adjust camera view
+10566,,,,,,0.402,RELEASING,2,LOW CONFIDENCE,Adjust camera view
+10600,,,,,,0.388,RELEASING,2,LOW CONFIDENCE,Adjust camera view
+10633,,,,,,0.375,RELEASING,2,LOW CONFIDENCE,Adjust camera view
+10666,,,,,,0.367,RELEASING,2,LOW CONFIDENCE,Adjust camera view
+10700,,,,,,0.363,RELEASING,2,LOW CONFIDENCE,Adjust camera view
+10733,,,,,,0.357,RELEASING,2,LOW CONFIDENCE,Adjust camera view
+10766,,,,,,0.358,RELEASING,2,LOW CONFIDENCE,Adjust camera view
+10800,,,,,,0.366,RELEASING,2,LOW CONFIDENCE,Adjust camera view
+10833,,,,,,0.373,RELEASING,2,LOW CONFIDENCE,Adjust camera view
+10866,,,,,,0.38,RELEASING,2,LOW CONFIDENCE,Adjust camera view
+10900,,,,,,0.39,RELEASING,2,LOW CONFIDENCE,Adjust camera view
+10933,,,,,,0.405,RELEASING,2,LOW CONFIDENCE,Adjust camera view
+10966,,,,,,0.423,RELEASING,2,LOW CONFIDENCE,Adjust camera view
+11000,,,,,,0.437,RELEASING,2,LOW CONFIDENCE,Adjust camera view
+11033,,,,,,0.449,RELEASING,2,LOW CONFIDENCE,Adjust camera view
+11066,,,,,,0.462,RELEASING,2,LOW CONFIDENCE,Adjust camera view
+11100,,,,,,0.478,RELEASING,2,LOW CONFIDENCE,Adjust camera view
+11133,,,,,,0.49,RELEASING,2,LOW CONFIDENCE,Adjust camera view
+11166,,,,,,0.497,RELEASING,2,LOW CONFIDENCE,Adjust camera view
+11200,54.2,13.8,118.8,158.2,29.7,0.502,RELEASING,2,FORM ISSUE,Keep hips grounded and level
+11233,56.0,21.0,117.1,164.9,37.6,0.504,RELEASING,2,FORM ISSUE,Keep hips grounded and level
+11266,58.9,28.2,114.9,160.5,39.3,0.502,RELEASING,2,FORM ISSUE,Keep hips grounded and level
+11300,,,,,,0.499,RELEASING,2,LOW CONFIDENCE,Adjust camera view
+11333,,,,,,0.496,RELEASING,2,LOW CONFIDENCE,Adjust camera view
+11366,,,,,,0.493,RELEASING,2,LOW CONFIDENCE,Adjust camera view
+11400,,,,,,0.492,RELEASING,2,LOW CONFIDENCE,Adjust camera view
+11433,,,,,,0.49,RELEASING,2,LOW CONFIDENCE,Adjust camera view
+11466,,,,,,0.489,RELEASING,2,LOW CONFIDENCE,Adjust camera view
+11500,,,,,,0.49,RELEASING,2,LOW CONFIDENCE,Adjust camera view
+11533,,,,,,0.494,RELEASING,2,LOW CONFIDENCE,Adjust camera view
+11566,,,,,,0.496,RELEASING,2,LOW CONFIDENCE,Adjust camera view
+11600,47.0,33.9,102.1,144.1,25.9,0.5,RELEASING,2,FORM ISSUE,Keep hips grounded and level
+11633,41.7,38.9,106.5,141.2,17.3,0.504,RELEASING,2,FORM ISSUE,Keep hips grounded and level
+11666,35.8,42.9,110.0,137.0,15.3,0.509,RELEASING,2,FORM ISSUE,Lifting too high - lift shoulder blades only
+11700,29.2,46.1,115.8,138.9,10.2,0.517,UP,2,FORM ISSUE,Lifting too high - lift shoulder blades only
+11733,19.8,41.2,120.7,138.7,19.4,0.527,UP,2,FORM ISSUE,Don't pull neck - lead with chest
+11766,11.4,34.8,116.0,122.7,13.4,0.539,UP,2,FORM ISSUE,Don't pull neck - lead with chest
+11800,8.0,27.6,117.9,123.6,11.9,0.555,UP,2,FORM ISSUE,Don't pull neck - lead with chest
+11833,6.3,21.8,117.1,124.5,16.5,0.567,UP,2,FORM ISSUE,Don't pull neck - lead with chest
+11866,4.2,16.4,121.0,142.0,19.4,0.572,UP,2,FORM ISSUE,Don't pull neck - lead with chest
+11900,6.6,12.2,165.5,156.7,19.9,0.573,UP,2,FORM ISSUE,Don't pull neck - lead with chest
+11933,4.2,8.6,111.1,130.7,21.6,0.569,UP,2,FORM ISSUE,Don't pull neck - lead with chest
+11966,4.2,6.4,110.6,129.2,26.2,0.565,RELEASING,2,FORM ISSUE,Keep hips grounded and level
+12000,4.4,5.4,110.5,129.0,23.7,0.556,RELEASING,2,FORM ISSUE,Keep hips grounded and level
+12033,5.0,5.0,112.6,129.7,25.5,0.546,RELEASING,2,FORM ISSUE,Keep hips grounded and level
+12066,4.3,4.7,112.9,129.1,23.8,0.542,RELEASING,2,FORM ISSUE,Keep hips grounded and level
+12100,4.3,4.7,112.3,125.8,25.5,0.545,DOWN,3,FORM ISSUE,Keep hips grounded and level
+12133,4.9,4.5,114.3,123.8,26.1,0.554,DOWN,3,FORM ISSUE,Keep hips grounded and level
+12166,4.1,4.5,116.3,122.2,24.9,0.569,DOWN,3,FORM ISSUE,Keep hips grounded and level
+12200,4.9,4.6,117.6,122.8,30.2,0.584,DOWN,3,FORM ISSUE,Keep hips grounded and level
+12233,4.6,4.6,114.1,124.7,27.7,0.601,DOWN,3,FORM ISSUE,Keep hips grounded and level
+12266,4.2,4.5,120.5,122.1,28.2,0.617,DOWN,3,FORM ISSUE,Keep hips grounded and level
+12300,4.9,4.6,121.6,121.1,29.1,0.633,DOWN,3,FORM ISSUE,Keep hips grounded and level
+12333,5.0,4.7,120.0,121.4,29.0,0.649,DOWN,3,FORM ISSUE,Keep hips grounded and level
+12366,4.2,4.6,119.6,121.9,27.7,0.659,DOWN,3,FORM ISSUE,Keep hips grounded and level
+12400,4.9,4.7,119.9,121.9,30.9,0.663,DOWN,3,FORM ISSUE,Keep hips grounded and level
+12433,5.1,4.7,119.2,121.6,32.0,0.668,DOWN,3,FORM ISSUE,Keep hips grounded and level
+12466,5.0,4.8,119.2,122.7,31.6,0.668,DOWN,3,FORM ISSUE,Keep hips grounded and level
+12500,5.1,4.9,120.3,120.7,33.4,0.668,DOWN,3,FORM ISSUE,Keep hips grounded and level
+12533,5.2,4.9,117.1,120.1,32.6,0.665,DOWN,3,FORM ISSUE,Keep hips grounded and level
+12566,4.8,4.9,113.4,124.3,27.6,0.66,DOWN,3,FORM ISSUE,Keep hips grounded and level
+12600,4.8,5.0,112.3,124.0,28.8,0.658,DOWN,3,FORM ISSUE,Keep hips grounded and level
+12633,5.1,5.0,120.5,119.9,31.5,0.662,DOWN,3,FORM ISSUE,Keep hips grounded and level
+12666,5.1,5.0,123.5,118.9,33.8,0.664,DOWN,3,FORM ISSUE,Keep hips grounded and level
+12700,5.9,5.1,128.7,118.3,34.3,0.672,DOWN,3,FORM ISSUE,Keep hips grounded and level
+12733,3.5,4.9,125.1,129.4,30.9,0.678,DOWN,3,FORM ISSUE,Keep hips grounded and level
+12766,0.6,4.3,118.2,131.2,27.4,0.682,DOWN,3,FORM ISSUE,Keep hips grounded and level
+12800,1.9,3.8,109.2,127.2,29.2,0.681,DOWN,3,FORM ISSUE,Keep hips grounded and level
+12833,2.3,3.5,103.1,123.1,24.2,0.673,DOWN,3,FORM ISSUE,Keep hips grounded and level
+12866,1.9,3.0,94.1,120.7,19.1,0.659,DOWN,3,FORM ISSUE,Keep hips grounded and level
+12900,1.8,2.6,84.3,117.5,13.8,0.64,DOWN,3,FORM ISSUE,Keep hips grounded and level
+12933,4.4,2.3,80.8,108.9,17.1,0.618,DOWN,3,FORM ISSUE,Keep hips grounded and level
+12966,6.9,2.8,83.6,111.9,13.5,0.601,DOWN,3,FORM ISSUE,Keep hips grounded and level
+13000,10.9,4.3,99.4,116.0,11.9,0.589,DOWN,3,FORM ISSUE,Keep hips grounded and level
+13033,14.4,6.1,100.7,117.9,10.1,0.586,DOWN,3,FORM ISSUE,Keep hips grounded and level
+13066,21.2,8.8,100.5,122.3,9.6,0.589,DOWN,3,FORM ISSUE,Keep hips grounded and level
+13100,24.6,12.0,101.8,124.5,6.1,0.599,DOWN,3,FORM ISSUE,Keep hips grounded and level
+13133,29.9,16.0,102.4,127.4,10.7,0.612,DOWN,3,FORM ISSUE,Keep hips grounded and level
+13166,36.8,20.7,109.8,131.2,12.9,0.625,CRUNCHING,3,FORM ISSUE,Don't pull neck - lead with chest
+13200,42.1,25.7,113.2,134.5,21.5,0.634,CRUNCHING,3,FORM ISSUE,Don't pull neck - lead with chest
+13233,45.6,30.6,119.8,137.3,17.0,0.64,CRUNCHING,3,FORM ISSUE,Don't pull neck - lead with chest
+13266,49.2,35.6,122.1,139.0,27.1,0.643,CRUNCHING,3,FORM ISSUE,Don't pull neck - lead with chest
+13300,49.3,39.6,124.4,141.2,29.2,0.644,UP,3,FORM ISSUE,Don't pull neck - lead with chest
+13333,50.2,43.3,126.4,145.1,35.9,0.643,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+13366,50.4,46.2,133.1,148.5,41.7,0.641,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+13400,49.8,48.1,136.2,149.9,43.1,0.641,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+13433,49.2,49.1,137.0,148.4,49.8,0.64,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+13466,48.6,49.5,137.4,147.1,63.4,0.64,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+13500,47.6,49.3,137.6,146.4,75.7,0.642,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+13533,46.7,48.9,138.0,146.7,93.5,0.641,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+13566,44.8,48.2,135.4,146.6,92.4,0.637,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+13600,42.9,47.1,129.8,144.4,94.4,0.636,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+13633,42.4,46.0,130.4,144.4,99.6,0.635,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+13666,41.6,44.9,130.2,144.3,114.1,0.636,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+13700,41.0,43.8,131.0,144.6,118.3,0.636,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+13733,40.6,42.9,134.0,146.4,120.8,0.631,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+13766,40.4,42.0,135.8,147.8,117.5,0.627,UP,3,FORM ISSUE,Keep hips grounded and level
+13800,40.6,41.4,137.0,148.8,117.1,0.621,UP,3,FORM ISSUE,Keep hips grounded and level
+13833,40.1,41.0,137.4,149.8,114.5,0.612,UP,3,FORM ISSUE,Keep hips grounded and level
+13866,39.3,40.5,132.5,149.6,114.7,0.599,UP,3,FORM ISSUE,Keep hips grounded and level
+13900,38.5,40.1,129.4,149.9,109.4,0.584,UP,3,FORM ISSUE,Keep hips grounded and level
+13933,38.7,39.7,133.5,151.3,106.1,0.57,UP,3,FORM ISSUE,Keep hips grounded and level
+13966,39.5,39.6,136.2,151.7,105.9,0.557,UP,3,FORM ISSUE,Keep hips grounded and level
+14000,39.5,39.5,135.1,150.5,106.9,0.546,UP,3,FORM ISSUE,Keep hips grounded and level
+14033,39.4,39.3,135.1,150.5,105.7,0.538,UP,3,FORM ISSUE,Keep hips grounded and level
+14066,39.6,39.2,130.9,148.8,111.2,0.533,UP,3,FORM ISSUE,Keep hips grounded and level
+14100,39.4,39.2,131.7,148.6,109.2,0.53,UP,3,FORM ISSUE,Keep hips grounded and level
+14133,39.6,39.4,129.9,148.8,110.4,0.53,UP,3,FORM ISSUE,Keep hips grounded and level
+14166,39.5,39.5,130.7,148.8,108.9,0.53,UP,3,FORM ISSUE,Keep hips grounded and level
+14200,39.3,39.5,132.1,149.1,108.3,0.53,UP,3,FORM ISSUE,Keep hips grounded and level
+14233,39.6,39.5,130.0,148.6,110.7,0.529,UP,3,FORM ISSUE,Keep hips grounded and level
+14266,39.4,39.5,132.0,149.5,108.6,0.527,UP,3,FORM ISSUE,Keep hips grounded and level
+14300,39.6,39.5,130.1,149.5,109.8,0.524,UP,3,FORM ISSUE,Keep hips grounded and level
+14333,39.1,39.4,131.1,150.9,105.6,0.518,UP,3,FORM ISSUE,Keep hips grounded and level
+14366,39.1,39.4,131.5,150.9,105.6,0.513,UP,3,FORM ISSUE,Keep hips grounded and level
+14400,38.9,39.3,127.9,149.8,104.5,0.507,UP,3,FORM ISSUE,Keep hips grounded and level
+14433,39.0,39.3,128.9,150.0,104.3,0.502,UP,3,FORM ISSUE,Keep hips grounded and level
+14466,,,,,,0.497,UP,3,LOW CONFIDENCE,Adjust camera view
+14500,,,,,,0.493,UP,3,LOW CONFIDENCE,Adjust camera view
+14533,,,,,,0.49,UP,3,LOW CONFIDENCE,Adjust camera view
+14566,,,,,,0.489,UP,3,LOW CONFIDENCE,Adjust camera view
+14600,,,,,,0.486,UP,3,LOW CONFIDENCE,Adjust camera view
+14633,,,,,,0.483,UP,3,LOW CONFIDENCE,Adjust camera view
+14666,,,,,,0.481,UP,3,LOW CONFIDENCE,Adjust camera view
+14700,,,,,,0.48,UP,3,LOW CONFIDENCE,Adjust camera view
+14733,,,,,,0.479,UP,3,LOW CONFIDENCE,Adjust camera view
+14766,,,,,,0.478,UP,3,LOW CONFIDENCE,Adjust camera view
+14800,,,,,,0.475,UP,3,LOW CONFIDENCE,Adjust camera view
+14833,,,,,,0.473,UP,3,LOW CONFIDENCE,Adjust camera view
+14866,,,,,,0.471,UP,3,LOW CONFIDENCE,Adjust camera view
+14900,,,,,,0.469,UP,3,LOW CONFIDENCE,Adjust camera view
+14933,,,,,,0.467,UP,3,LOW CONFIDENCE,Adjust camera view
+14966,,,,,,0.464,UP,3,LOW CONFIDENCE,Adjust camera view
+15000,,,,,,0.462,UP,3,LOW CONFIDENCE,Adjust camera view
+15033,,,,,,0.458,UP,3,LOW CONFIDENCE,Adjust camera view
+15066,,,,,,0.453,UP,3,LOW CONFIDENCE,Adjust camera view
+15100,,,,,,0.449,UP,3,LOW CONFIDENCE,Adjust camera view
+15133,,,,,,0.446,UP,3,LOW CONFIDENCE,Adjust camera view
+15166,,,,,,0.443,UP,3,LOW CONFIDENCE,Adjust camera view
+15200,,,,,,0.44,UP,3,LOW CONFIDENCE,Adjust camera view
+15233,,,,,,0.437,UP,3,LOW CONFIDENCE,Adjust camera view
+15266,,,,,,0.436,UP,3,LOW CONFIDENCE,Adjust camera view
+15300,,,,,,0.435,UP,3,LOW CONFIDENCE,Adjust camera view
+15333,,,,,,0.435,UP,3,LOW CONFIDENCE,Adjust camera view
+15366,,,,,,0.436,UP,3,LOW CONFIDENCE,Adjust camera view
+15400,,,,,,0.435,UP,3,LOW CONFIDENCE,Adjust camera view
+15433,,,,,,0.435,UP,3,LOW CONFIDENCE,Adjust camera view
+15466,,,,,,0.435,UP,3,LOW CONFIDENCE,Adjust camera view
+15500,,,,,,0.436,UP,3,LOW CONFIDENCE,Adjust camera view
+15533,,,,,,0.437,UP,3,LOW CONFIDENCE,Adjust camera view
+15566,,,,,,0.437,UP,3,LOW CONFIDENCE,Adjust camera view
+15600,,,,,,0.437,UP,3,LOW CONFIDENCE,Adjust camera view
+15633,,,,,,0.437,UP,3,LOW CONFIDENCE,Adjust camera view
+15666,,,,,,0.435,UP,3,LOW CONFIDENCE,Adjust camera view
+15700,,,,,,0.433,UP,3,LOW CONFIDENCE,Adjust camera view
+0,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+33,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+66,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+100,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+133,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+166,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+200,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+233,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+266,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+300,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+333,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+366,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+400,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+433,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+466,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+500,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+533,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+566,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+600,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+633,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+666,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+700,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+733,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+766,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+800,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+833,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+866,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+900,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+933,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+966,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+1000,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+1033,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+1066,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+1100,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+1133,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+1166,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+1200,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+1233,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+1266,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+1300,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+1333,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+1366,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+1400,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+1433,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+1466,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+1500,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+1533,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+1566,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+1600,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+1633,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+1666,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+1700,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+1733,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+1766,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+1800,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+1833,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+1866,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+1900,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+1933,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+1966,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+2000,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+2033,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+2066,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+2100,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+2133,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+2166,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+2200,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+2233,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+2266,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+2300,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+2333,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+2366,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+2400,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+2433,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+2466,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+2500,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+2533,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+2566,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+2600,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+2633,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+2666,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+2700,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+2733,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+2766,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+2800,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+2833,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+2866,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+2900,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+2933,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+2966,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+3000,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+3033,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+3066,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+3100,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+3133,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+3166,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+3200,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+3233,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+3266,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+3300,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+3333,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+3366,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+3400,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+3433,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+3466,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+3500,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+3533,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+3566,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+3600,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+3633,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+3666,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+3700,,,,,,0.018,DOWN,0,LOW CONFIDENCE,Adjust camera view
+3733,,,,,,0.035,DOWN,0,LOW CONFIDENCE,Adjust camera view
+3766,,,,,,0.054,DOWN,0,LOW CONFIDENCE,Adjust camera view
+3800,,,,,,0.083,DOWN,0,LOW CONFIDENCE,Adjust camera view
+3833,,,,,,0.113,DOWN,0,LOW CONFIDENCE,Adjust camera view
+3866,,,,,,0.151,DOWN,0,LOW CONFIDENCE,Adjust camera view
+3900,,,,,,0.191,DOWN,0,LOW CONFIDENCE,Adjust camera view
+3933,,,,,,0.213,DOWN,0,LOW CONFIDENCE,Adjust camera view
+3966,,,,,,0.235,DOWN,0,LOW CONFIDENCE,Adjust camera view
+4000,,,,,,0.254,DOWN,0,LOW CONFIDENCE,Adjust camera view
+4033,,,,,,0.264,DOWN,0,LOW CONFIDENCE,Adjust camera view
+4066,,,,,,0.27,DOWN,0,LOW CONFIDENCE,Adjust camera view
+4100,,,,,,0.268,DOWN,0,LOW CONFIDENCE,Adjust camera view
+4133,,,,,,0.268,DOWN,0,LOW CONFIDENCE,Adjust camera view
+4166,,,,,,0.276,DOWN,0,LOW CONFIDENCE,Adjust camera view
+4200,,,,,,0.288,DOWN,0,LOW CONFIDENCE,Adjust camera view
+4233,,,,,,0.305,DOWN,0,LOW CONFIDENCE,Adjust camera view
+4266,,,,,,0.329,DOWN,0,LOW CONFIDENCE,Adjust camera view
+4300,,,,,,0.361,DOWN,0,LOW CONFIDENCE,Adjust camera view
+4333,,,,,,0.397,DOWN,0,LOW CONFIDENCE,Adjust camera view
+4366,,,,,,0.435,DOWN,0,LOW CONFIDENCE,Adjust camera view
+4400,,,,,,0.47,DOWN,0,LOW CONFIDENCE,Adjust camera view
+4433,8.6,8.6,58.3,58.4,110.4,0.505,DOWN,0,FORM ISSUE,Keep hips grounded and level
+4466,2.2,5.4,50.7,39.8,131.7,0.531,DOWN,0,FORM ISSUE,Keep hips grounded and level
+4500,0.0,3.6,67.7,91.8,137.4,0.545,DOWN,0,FORM ISSUE,Keep hips grounded and level
+4533,3.5,3.6,105.4,108.8,124.5,0.547,DOWN,0,FORM ISSUE,Keep hips grounded and level
+4566,2.9,3.4,115.8,108.1,121.5,0.539,DOWN,0,FORM ISSUE,Keep hips grounded and level
+4600,15.8,5.5,134.4,155.9,122.6,0.521,DOWN,0,FORM ISSUE,Keep hips grounded and level
+4633,,,,,,0.438,DOWN,0,NO PERSON,Lie down in frame
+4666,,,,,,0.351,DOWN,0,NO PERSON,Lie down in frame
+4700,,,,,,0.27,DOWN,0,NO PERSON,Lie down in frame
+4733,,,,,,0.194,DOWN,0,NO PERSON,Lie down in frame
+4766,,,,,,0.124,DOWN,0,NO PERSON,Lie down in frame
+4800,,,,,,0.059,DOWN,0,NO PERSON,Lie down in frame
+4833,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+4866,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+4900,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+4933,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+4966,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+5000,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+5033,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+5066,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+5100,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+5133,,,,,,0.058,DOWN,0,LOW CONFIDENCE,Adjust camera view
+5166,,,,,,0.058,DOWN,0,NO PERSON,Lie down in frame
+5200,,,,,,0.113,DOWN,0,LOW CONFIDENCE,Adjust camera view
+5233,,,,,,0.113,DOWN,0,NO PERSON,Lie down in frame
+5266,,,,,,0.113,DOWN,0,NO PERSON,Lie down in frame
+5300,,,,,,0.113,DOWN,0,NO PERSON,Lie down in frame
+5333,,,,,,0.167,DOWN,0,LOW CONFIDENCE,Adjust camera view
+5366,,,,,,0.109,DOWN,0,NO PERSON,Lie down in frame
+5400,,,,,,0.109,DOWN,0,NO PERSON,Lie down in frame
+5433,,,,,,0.055,DOWN,0,NO PERSON,Lie down in frame
+5466,,,,,,0.055,DOWN,0,NO PERSON,Lie down in frame
+5500,,,,,,0.055,DOWN,0,NO PERSON,Lie down in frame
+5533,,,,,,0.055,DOWN,0,NO PERSON,Lie down in frame
+5566,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+5600,,,,,,0.0,DOWN,0,NO PERSON,Lie down in frame
+5633,,,,,,0.055,DOWN,0,LOW CONFIDENCE,Adjust camera view
+5666,,,,,,0.11,DOWN,0,LOW CONFIDENCE,Adjust camera view
+5700,,,,,,0.163,DOWN,0,LOW CONFIDENCE,Adjust camera view
+5733,,,,,,0.216,DOWN,0,LOW CONFIDENCE,Adjust camera view
+5766,,,,,,0.268,DOWN,0,LOW CONFIDENCE,Adjust camera view
+5800,,,,,,0.317,DOWN,0,LOW CONFIDENCE,Adjust camera view
+5833,,,,,,0.366,DOWN,0,LOW CONFIDENCE,Adjust camera view
+5866,,,,,,0.358,DOWN,0,LOW CONFIDENCE,Adjust camera view
+5900,,,,,,0.35,DOWN,0,LOW CONFIDENCE,Adjust camera view
+5933,,,,,,0.34,DOWN,0,LOW CONFIDENCE,Adjust camera view
+5966,,,,,,0.33,DOWN,0,LOW CONFIDENCE,Adjust camera view
+6000,,,,,,0.318,DOWN,0,LOW CONFIDENCE,Adjust camera view
+6033,,,,,,0.309,DOWN,0,LOW CONFIDENCE,Adjust camera view
+6066,,,,,,0.302,DOWN,0,LOW CONFIDENCE,Adjust camera view
+6100,,,,,,0.304,DOWN,0,LOW CONFIDENCE,Adjust camera view
+6133,,,,,,0.313,DOWN,0,LOW CONFIDENCE,Adjust camera view
+6166,,,,,,0.332,DOWN,0,LOW CONFIDENCE,Adjust camera view
+6200,,,,,,0.358,DOWN,0,LOW CONFIDENCE,Adjust camera view
+6233,,,,,,0.387,DOWN,0,LOW CONFIDENCE,Adjust camera view
+6266,,,,,,0.416,DOWN,0,LOW CONFIDENCE,Adjust camera view
+6300,,,,,,0.438,DOWN,0,LOW CONFIDENCE,Adjust camera view
+6333,,,,,,0.452,DOWN,0,LOW CONFIDENCE,Adjust camera view
+6366,,,,,,0.46,DOWN,0,LOW CONFIDENCE,Adjust camera view
+6400,,,,,,0.457,DOWN,0,LOW CONFIDENCE,Adjust camera view
+6433,,,,,,0.454,DOWN,0,LOW CONFIDENCE,Adjust camera view
+6466,,,,,,0.453,DOWN,0,LOW CONFIDENCE,Adjust camera view
+6500,,,,,,0.448,DOWN,0,LOW CONFIDENCE,Adjust camera view
+6533,,,,,,0.445,DOWN,0,LOW CONFIDENCE,Adjust camera view
+6566,,,,,,0.44,DOWN,0,LOW CONFIDENCE,Adjust camera view
+6600,,,,,,0.43,DOWN,0,LOW CONFIDENCE,Adjust camera view
+6633,,,,,,0.419,DOWN,0,LOW CONFIDENCE,Adjust camera view
+6666,,,,,,0.401,DOWN,0,LOW CONFIDENCE,Adjust camera view
+6700,,,,,,0.376,DOWN,0,LOW CONFIDENCE,Adjust camera view
+6733,,,,,,0.354,DOWN,0,LOW CONFIDENCE,Adjust camera view
+6766,,,,,,0.332,DOWN,0,LOW CONFIDENCE,Adjust camera view
+6800,,,,,,0.312,DOWN,0,LOW CONFIDENCE,Adjust camera view
+6833,,,,,,0.294,DOWN,0,LOW CONFIDENCE,Adjust camera view
+6866,,,,,,0.279,DOWN,0,LOW CONFIDENCE,Adjust camera view
+6900,,,,,,0.265,DOWN,0,LOW CONFIDENCE,Adjust camera view
+6933,,,,,,0.255,DOWN,0,LOW CONFIDENCE,Adjust camera view
+6966,,,,,,0.246,DOWN,0,LOW CONFIDENCE,Adjust camera view
+7000,,,,,,0.24,DOWN,0,LOW CONFIDENCE,Adjust camera view
+7033,,,,,,0.236,DOWN,0,LOW CONFIDENCE,Adjust camera view
+7066,,,,,,0.234,DOWN,0,LOW CONFIDENCE,Adjust camera view
+7100,,,,,,0.232,DOWN,0,LOW CONFIDENCE,Adjust camera view
+7133,,,,,,0.232,DOWN,0,LOW CONFIDENCE,Adjust camera view
+7166,,,,,,0.234,DOWN,0,LOW CONFIDENCE,Adjust camera view
+7200,,,,,,0.244,DOWN,0,LOW CONFIDENCE,Adjust camera view
+7233,,,,,,0.262,DOWN,0,LOW CONFIDENCE,Adjust camera view
+7266,,,,,,0.282,DOWN,0,LOW CONFIDENCE,Adjust camera view
+7300,,,,,,0.305,DOWN,0,LOW CONFIDENCE,Adjust camera view
+7333,,,,,,0.332,DOWN,0,LOW CONFIDENCE,Adjust camera view
+7366,,,,,,0.356,DOWN,0,LOW CONFIDENCE,Adjust camera view
+7400,,,,,,0.38,DOWN,0,LOW CONFIDENCE,Adjust camera view
+7433,,,,,,0.396,DOWN,0,LOW CONFIDENCE,Adjust camera view
+7466,,,,,,0.402,DOWN,0,LOW CONFIDENCE,Adjust camera view
+7500,,,,,,0.402,DOWN,0,LOW CONFIDENCE,Adjust camera view
+7533,,,,,,0.4,DOWN,0,LOW CONFIDENCE,Adjust camera view
+7566,,,,,,0.394,DOWN,0,LOW CONFIDENCE,Adjust camera view
+7600,,,,,,0.391,DOWN,0,LOW CONFIDENCE,Adjust camera view
+7633,,,,,,0.387,DOWN,0,LOW CONFIDENCE,Adjust camera view
+7666,,,,,,0.385,DOWN,0,LOW CONFIDENCE,Adjust camera view
+7700,,,,,,0.386,DOWN,0,LOW CONFIDENCE,Adjust camera view
+7733,,,,,,0.389,DOWN,0,LOW CONFIDENCE,Adjust camera view
+7766,,,,,,0.393,DOWN,0,LOW CONFIDENCE,Adjust camera view
+7800,,,,,,0.398,DOWN,0,LOW CONFIDENCE,Adjust camera view
+7833,,,,,,0.402,DOWN,0,LOW CONFIDENCE,Adjust camera view
+7866,,,,,,0.403,DOWN,0,LOW CONFIDENCE,Adjust camera view
+7900,,,,,,0.406,DOWN,0,LOW CONFIDENCE,Adjust camera view
+7933,,,,,,0.408,DOWN,0,LOW CONFIDENCE,Adjust camera view
+7966,,,,,,0.408,DOWN,0,LOW CONFIDENCE,Adjust camera view
+8000,,,,,,0.407,DOWN,0,LOW CONFIDENCE,Adjust camera view
+8033,,,,,,0.405,DOWN,0,LOW CONFIDENCE,Adjust camera view
+8066,,,,,,0.406,DOWN,0,LOW CONFIDENCE,Adjust camera view
+8100,,,,,,0.407,DOWN,0,LOW CONFIDENCE,Adjust camera view
+8133,,,,,,0.404,DOWN,0,LOW CONFIDENCE,Adjust camera view
+8166,,,,,,0.399,DOWN,0,LOW CONFIDENCE,Adjust camera view
+8200,,,,,,0.396,DOWN,0,LOW CONFIDENCE,Adjust camera view
+8233,,,,,,0.391,DOWN,0,LOW CONFIDENCE,Adjust camera view
+8266,,,,,,0.387,DOWN,0,LOW CONFIDENCE,Adjust camera view
+8300,,,,,,0.381,DOWN,0,LOW CONFIDENCE,Adjust camera view
+8333,,,,,,0.376,DOWN,0,LOW CONFIDENCE,Adjust camera view
+8366,,,,,,0.372,DOWN,0,LOW CONFIDENCE,Adjust camera view
+8400,,,,,,0.372,DOWN,0,LOW CONFIDENCE,Adjust camera view
+8433,,,,,,0.372,DOWN,0,LOW CONFIDENCE,Adjust camera view
+8466,,,,,,0.376,DOWN,0,LOW CONFIDENCE,Adjust camera view
+8500,,,,,,0.378,DOWN,0,LOW CONFIDENCE,Adjust camera view
+8533,,,,,,0.382,DOWN,0,LOW CONFIDENCE,Adjust camera view
+8566,,,,,,0.384,DOWN,0,LOW CONFIDENCE,Adjust camera view
+8600,,,,,,0.387,DOWN,0,LOW CONFIDENCE,Adjust camera view
+8633,,,,,,0.39,DOWN,0,LOW CONFIDENCE,Adjust camera view
+8666,,,,,,0.392,DOWN,0,LOW CONFIDENCE,Adjust camera view
+8700,,,,,,0.393,DOWN,0,LOW CONFIDENCE,Adjust camera view
+8733,,,,,,0.395,DOWN,0,LOW CONFIDENCE,Adjust camera view
+8766,,,,,,0.397,DOWN,0,LOW CONFIDENCE,Adjust camera view
+8800,,,,,,0.402,DOWN,0,LOW CONFIDENCE,Adjust camera view
+8833,,,,,,0.41,DOWN,0,LOW CONFIDENCE,Adjust camera view
+8866,,,,,,0.419,DOWN,0,LOW CONFIDENCE,Adjust camera view
+8900,,,,,,0.431,DOWN,0,LOW CONFIDENCE,Adjust camera view
+8933,,,,,,0.443,DOWN,0,LOW CONFIDENCE,Adjust camera view
+8966,,,,,,0.456,DOWN,0,LOW CONFIDENCE,Adjust camera view
+9000,,,,,,0.472,DOWN,0,LOW CONFIDENCE,Adjust camera view
+9033,,,,,,0.487,DOWN,0,LOW CONFIDENCE,Adjust camera view
+9066,10.7,6.2,104.2,120.8,24.8,0.502,DOWN,0,FORM ISSUE,Keep hips grounded and level
+9100,11.8,6.7,108.6,119.5,26.5,0.519,DOWN,0,FORM ISSUE,Keep hips grounded and level
+9133,11.3,8.0,104.3,125.1,15.7,0.537,DOWN,0,FORM ISSUE,Keep hips grounded and level
+9166,12.1,9.7,102.2,127.3,2.9,0.557,DOWN,0,FORM ISSUE,Keep hips grounded and level
+9200,13.1,11.1,102.7,132.0,2.6,0.579,DOWN,0,FORM ISSUE,Keep hips grounded and level
+9233,14.1,12.7,99.6,131.9,0.8,0.599,DOWN,0,FORM ISSUE,Keep hips grounded and level
+9266,16.2,12.8,93.8,130.5,6.0,0.619,CRUNCHING,0,FORM ISSUE,Don't pull neck - lead with chest
+9300,17.7,13.8,90.8,122.0,3.2,0.639,CRUNCHING,0,FORM ISSUE,Don't pull neck - lead with chest
+9333,18.9,14.8,91.8,121.5,6.5,0.654,CRUNCHING,0,FORM ISSUE,Don't pull neck - lead with chest
+9366,20.5,16.1,97.1,122.3,7.9,0.667,CRUNCHING,0,FORM ISSUE,Don't pull neck - lead with chest
+9400,20.9,17.3,98.3,124.4,5.0,0.681,CRUNCHING,0,FORM ISSUE,Don't pull neck - lead with chest
+9433,22.6,18.7,95.4,127.1,8.0,0.689,CRUNCHING,0,FORM ISSUE,Don't pull neck - lead with chest
+9466,24.7,20.2,96.8,132.8,3.6,0.698,CRUNCHING,0,FORM ISSUE,Don't pull neck - lead with chest
+9500,27.2,21.8,97.3,133.8,3.7,0.707,CRUNCHING,0,FORM ISSUE,Don't pull neck - lead with chest
+9533,29.0,23.4,99.6,132.7,7.5,0.713,CRUNCHING,0,FORM ISSUE,Don't pull neck - lead with chest
+9566,30.0,25.0,104.8,136.5,9.0,0.719,CRUNCHING,0,FORM ISSUE,Don't pull neck - lead with chest
+9600,32.5,26.7,103.6,137.6,11.0,0.722,CRUNCHING,0,FORM ISSUE,Don't pull neck - lead with chest
+9633,34.9,28.7,103.1,141.3,12.5,0.724,UP,0,FORM ISSUE,Don't pull neck - lead with chest
+9666,37.7,30.8,103.8,141.1,13.7,0.727,UP,0,FORM ISSUE,Don't pull neck - lead with chest
+9700,39.7,33.0,104.2,138.3,10.5,0.73,UP,0,FORM ISSUE,Don't pull neck - lead with chest
+9733,44.1,35.4,113.5,143.4,0.4,0.732,UP,0,FORM ISSUE,Don't pull neck - lead with chest
+9766,46.3,37.9,113.1,143.7,7.2,0.735,UP,0,FORM ISSUE,Don't pull neck - lead with chest
+9800,47.5,40.4,112.8,145.6,9.8,0.741,UP,0,FORM ISSUE,Don't pull neck - lead with chest
+9833,49.4,42.8,116.2,142.8,7.3,0.749,UP,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+9866,50.8,45.1,116.4,146.7,2.3,0.759,UP,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+9900,51.3,47.0,116.2,145.2,6.3,0.77,UP,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+9933,52.3,48.8,114.7,144.9,5.5,0.78,UP,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+9966,52.7,50.1,115.2,146.9,3.5,0.791,UP,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+10000,53.0,51.0,114.3,145.5,5.6,0.801,UP,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+10033,53.7,51.9,114.7,146.4,4.8,0.81,UP,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+10066,54.3,52.6,115.2,146.4,5.1,0.818,UP,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+10100,54.8,53.2,117.8,148.2,3.3,0.824,UP,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+10133,55.9,53.8,121.8,148.9,1.2,0.83,UP,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+10166,57.6,54.6,123.0,142.3,15.0,0.83,UP,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+10200,58.1,55.3,124.1,144.4,11.3,0.828,UP,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+10233,57.7,56.0,124.2,139.7,18.2,0.82,UP,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+10266,55.1,56.2,122.0,141.3,5.3,0.812,UP,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+10300,50.1,55.6,116.0,137.5,15.9,0.803,UP,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+10333,44.5,54.1,116.4,133.8,7.3,0.792,UP,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+10366,39.2,51.7,102.5,128.6,2.5,0.78,UP,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+10400,35.3,48.5,98.3,123.7,4.8,0.772,UP,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+10433,30.4,44.6,91.4,119.2,8.5,0.765,UP,0,FORM ISSUE,Lifting too high - lift shoulder blades only
+10466,25.6,40.0,92.4,117.5,7.6,0.764,UP,0,FORM ISSUE,Don't pull neck - lead with chest
+10500,21.6,35.2,90.1,114.2,10.3,0.763,UP,0,FORM ISSUE,Don't pull neck - lead with chest
+10533,19.0,30.8,87.8,109.5,21.8,0.762,UP,0,FORM ISSUE,Don't pull neck - lead with chest
+10566,15.1,26.6,89.8,116.4,20.4,0.76,UP,0,FORM ISSUE,Don't pull neck - lead with chest
+10600,14.1,23.0,87.1,115.8,27.3,0.757,UP,0,FORM ISSUE,Don't pull neck - lead with chest
+10633,10.7,19.5,85.5,120.5,19.9,0.752,UP,0,FORM ISSUE,Don't pull neck - lead with chest
+10666,11.3,16.8,82.2,121.0,21.8,0.742,UP,0,FORM ISSUE,Don't pull neck - lead with chest
+10700,11.5,14.8,85.2,117.8,26.4,0.73,UP,0,FORM ISSUE,Don't pull neck - lead with chest
+10733,12.4,13.4,80.7,110.3,42.4,0.714,UP,0,FORM ISSUE,Keep hips grounded and level
+10766,10.7,12.3,85.0,117.7,44.3,0.696,RELEASING,0,FORM ISSUE,Keep hips grounded and level
+10800,8.3,11.3,85.8,118.0,40.4,0.678,RELEASING,0,FORM ISSUE,Keep hips grounded and level
+10833,5.8,10.1,84.6,117.4,35.7,0.661,RELEASING,0,FORM ISSUE,Keep hips grounded and level
+10866,5.1,9.3,85.0,115.3,22.1,0.643,RELEASING,0,FORM ISSUE,Keep hips grounded and level
+10900,5.5,8.5,85.6,118.9,20.7,0.624,RELEASING,0,FORM ISSUE,Keep hips grounded and level
+10933,5.4,7.6,84.5,119.6,21.0,0.603,RELEASING,0,FORM ISSUE,Keep hips grounded and level
+10966,4.7,6.5,80.8,120.0,29.7,0.586,RELEASING,0,FORM ISSUE,Keep hips grounded and level
+11000,5.0,5.7,82.1,119.8,31.3,0.57,RELEASING,0,FORM ISSUE,Keep hips grounded and level
+11033,4.7,5.2,85.7,114.3,33.9,0.555,DOWN,1,FORM ISSUE,Keep hips grounded and level
+11066,4.9,5.1,87.7,115.5,41.7,0.544,DOWN,1,FORM ISSUE,Keep hips grounded and level
+11100,4.9,5.0,88.0,115.7,41.6,0.533,DOWN,1,FORM ISSUE,Keep hips grounded and level
+11133,5.5,5.0,88.4,115.3,42.2,0.525,DOWN,1,FORM ISSUE,Keep hips grounded and level
+11166,5.6,5.1,87.8,115.6,40.4,0.519,DOWN,1,FORM ISSUE,Keep hips grounded and level
+11200,5.8,5.2,88.6,117.6,37.8,0.511,DOWN,1,FORM ISSUE,Keep hips grounded and level
+11233,6.1,5.4,87.4,114.5,28.9,0.503,DOWN,1,FORM ISSUE,Keep hips grounded and level
+11266,,,,,,0.497,DOWN,1,LOW CONFIDENCE,Adjust camera view
+11300,,,,,,0.495,DOWN,1,LOW CONFIDENCE,Adjust camera view
+11333,10.6,6.2,93.9,120.6,9.7,0.502,DOWN,1,FORM ISSUE,Keep hips grounded and level
+11366,12.5,7.3,91.6,121.0,3.6,0.513,DOWN,1,FORM ISSUE,Keep hips grounded and level
+11400,15.0,8.7,91.2,123.9,0.8,0.526,DOWN,1,FORM ISSUE,Keep hips grounded and level
+11433,17.4,10.4,90.4,121.5,2.6,0.542,DOWN,1,FORM ISSUE,Keep hips grounded and level
+11466,20.4,12.6,93.3,118.5,3.7,0.561,DOWN,1,FORM ISSUE,Keep hips grounded and level
+11500,21.8,14.8,92.6,121.4,7.5,0.579,CRUNCHING,1,FORM ISSUE,Don't pull neck - lead with chest
+11533,24.6,17.5,90.9,118.5,5.3,0.595,CRUNCHING,1,FORM ISSUE,Don't pull neck - lead with chest
+11566,25.8,19.6,94.2,124.1,11.9,0.607,CRUNCHING,1,FORM ISSUE,Don't pull neck - lead with chest
+11600,26.2,21.6,94.3,130.2,11.1,0.617,CRUNCHING,1,FORM ISSUE,Don't pull neck - lead with chest
+11633,28.5,23.5,100.3,133.8,7.2,0.63,CRUNCHING,1,FORM ISSUE,Don't pull neck - lead with chest
+11666,31.0,25.5,99.4,135.9,11.1,0.642,CRUNCHING,1,FORM ISSUE,Don't pull neck - lead with chest
+11700,32.7,27.2,104.8,136.8,0.3,0.652,CRUNCHING,1,FORM ISSUE,Don't pull neck - lead with chest
+11733,32.8,28.8,103.5,141.7,2.9,0.663,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+11766,35.2,30.3,112.6,146.2,2.0,0.674,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+11800,36.4,31.8,125.6,150.9,4.0,0.685,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+11833,39.4,33.7,128.4,148.2,2.7,0.693,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+11866,41.6,35.6,127.0,149.7,0.4,0.701,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+11900,45.2,37.6,120.6,148.6,5.7,0.711,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+11933,47.7,39.7,119.9,148.6,17.2,0.722,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+11966,50.9,42.3,117.8,147.0,19.9,0.733,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+12000,53.1,44.9,117.2,151.7,11.5,0.744,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+12033,54.9,47.5,120.9,151.6,11.5,0.752,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+12066,55.6,49.8,123.4,153.4,17.9,0.76,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+12100,56.0,51.9,123.5,154.2,16.0,0.766,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+12133,56.9,53.6,122.8,152.4,25.4,0.769,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+12166,57.5,55.0,126.7,156.3,19.3,0.771,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+12200,58.2,56.0,124.4,150.6,21.7,0.768,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+12233,58.1,56.7,123.5,151.5,20.0,0.764,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+12266,58.9,57.3,122.3,151.5,20.9,0.76,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+12300,57.7,57.6,119.1,148.2,22.3,0.759,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+12333,56.9,57.7,116.2,144.9,28.7,0.759,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+12366,55.6,57.5,114.9,142.5,29.9,0.761,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+12400,54.9,57.2,115.7,140.2,10.2,0.763,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+12433,53.6,56.5,112.2,142.3,13.3,0.768,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+12466,52.6,55.7,113.5,140.3,9.4,0.774,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+12500,49.8,54.4,113.1,138.0,5.3,0.777,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+12533,48.5,53.1,113.1,137.1,18.3,0.775,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+12566,46.4,51.6,111.0,140.1,21.4,0.774,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+12600,44.5,50.0,109.4,135.0,14.3,0.77,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+12633,40.8,48.0,104.6,130.4,17.6,0.762,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+12666,36.8,45.6,98.6,125.7,11.2,0.756,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+12700,31.5,42.6,94.8,132.8,6.3,0.748,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+12733,29.4,39.7,94.1,124.2,0.9,0.743,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+12766,27.9,36.8,92.9,119.4,6.8,0.739,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+12800,23.3,33.5,88.6,116.6,9.8,0.735,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+12833,20.1,30.0,88.4,112.9,10.7,0.735,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+12866,16.4,26.5,88.2,111.5,11.4,0.738,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+12900,14.8,23.4,86.8,110.9,25.7,0.739,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+12933,11.2,20.5,86.4,111.0,18.2,0.743,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+12966,13.1,18.1,81.7,106.3,31.4,0.738,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+13000,14.0,16.1,82.6,108.0,37.1,0.732,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+13033,12.0,14.5,81.2,102.2,33.9,0.721,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+13066,11.8,13.3,84.7,106.3,33.5,0.706,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+13100,13.0,12.8,85.7,105.3,36.6,0.689,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+13133,11.6,12.4,88.7,114.4,59.4,0.671,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+13166,12.1,12.5,86.1,109.5,49.3,0.647,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+13200,12.0,12.4,86.3,108.7,45.9,0.628,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+13233,10.9,11.9,85.8,108.9,42.3,0.608,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+13266,9.7,11.6,92.1,117.0,36.0,0.592,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+13300,9.5,11.3,86.9,110.0,39.8,0.574,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+13333,8.1,10.5,88.2,118.7,47.0,0.555,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+13366,7.3,9.9,89.1,115.7,43.7,0.539,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+13400,7.9,9.3,91.0,114.4,44.1,0.529,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+13433,8.4,8.8,95.6,115.9,43.1,0.52,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+13466,9.1,8.6,97.3,115.5,42.8,0.51,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+13500,,,,,,0.499,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+13533,,,,,,0.49,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+13566,,,,,,0.482,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+13600,,,,,,0.475,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+13633,,,,,,0.465,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+13666,,,,,,0.454,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+13700,,,,,,0.449,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+13733,,,,,,0.452,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+13766,,,,,,0.459,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+13800,,,,,,0.468,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+13833,,,,,,0.478,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+13866,,,,,,0.487,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+13900,,,,,,0.499,RELEASING,1,LOW CONFIDENCE,Adjust camera view
+13933,25.6,10.8,84.7,111.2,7.5,0.511,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+13966,27.1,13.4,82.5,114.7,8.6,0.516,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+14000,28.5,16.3,93.9,119.7,13.6,0.517,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+14033,31.0,19.7,100.0,131.6,10.6,0.517,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+14066,36.2,23.7,100.7,130.5,12.1,0.519,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+14100,40.7,28.3,105.0,130.2,16.9,0.526,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+14133,44.7,33.4,106.6,134.4,19.1,0.538,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+14166,46.9,36.5,107.3,130.4,21.5,0.552,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+14200,47.8,39.4,107.7,133.3,24.7,0.571,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+14233,50.7,42.6,109.1,135.4,22.3,0.593,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+14266,53.7,45.8,109.2,132.8,24.9,0.618,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+14300,55.0,48.5,110.7,131.4,27.8,0.641,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+14333,56.5,50.7,111.8,133.1,31.7,0.662,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+14366,58.0,52.6,114.5,137.9,32.3,0.68,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+14400,59.1,54.4,115.7,136.9,36.1,0.695,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+14433,60.6,56.2,117.2,143.5,41.2,0.71,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+14466,61.6,57.8,122.5,145.4,39.3,0.719,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+14500,61.9,59.0,123.4,145.9,34.0,0.728,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+14533,62.2,60.0,122.4,147.2,42.9,0.733,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+14566,62.5,60.9,121.7,148.3,43.9,0.735,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+14600,62.5,61.5,120.8,146.7,45.7,0.732,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+14633,62.4,62.0,126.9,148.3,39.9,0.724,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+14666,63.5,62.4,139.8,169.9,24.8,0.71,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+14700,62.6,62.5,135.0,154.0,38.4,0.695,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+14733,63.5,62.8,130.5,155.4,40.9,0.673,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+14766,63.8,63.0,133.7,156.6,39.5,0.649,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+14800,64.8,63.3,133.2,151.6,41.5,0.623,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+14833,64.9,63.7,130.3,152.7,44.5,0.597,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+14866,64.9,64.0,128.8,152.6,48.0,0.574,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+14900,65.7,64.3,124.6,151.7,49.4,0.551,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+14933,65.5,64.7,120.8,150.4,48.7,0.532,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+14966,64.4,64.9,120.8,155.0,47.9,0.511,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+15000,,,,,,0.497,UP,1,LOW CONFIDENCE,Adjust camera view
+15033,,,,,,0.488,UP,1,LOW CONFIDENCE,Adjust camera view
+15066,,,,,,0.482,UP,1,LOW CONFIDENCE,Adjust camera view
+15100,,,,,,0.482,UP,1,LOW CONFIDENCE,Adjust camera view
+15133,,,,,,0.489,UP,1,LOW CONFIDENCE,Adjust camera view
+15166,,,,,,0.5,UP,1,LOW CONFIDENCE,Adjust camera view
+15200,60.0,64.3,127.1,146.0,23.7,0.519,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+15233,60.4,63.7,124.9,146.3,24.3,0.541,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+15266,59.2,62.9,123.4,141.5,10.4,0.563,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+15300,58.4,61.9,119.9,141.4,12.1,0.584,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+15333,59.0,61.0,120.6,139.3,1.6,0.603,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+15366,59.1,60.1,116.4,137.0,8.4,0.62,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+15400,57.6,59.1,114.8,132.9,3.7,0.634,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+15433,55.6,58.5,114.7,134.7,3.2,0.645,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+15466,51.0,57.1,117.3,136.6,6.3,0.654,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+15500,46.9,55.4,113.7,125.7,2.1,0.662,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+15533,40.9,52.9,109.1,123.7,1.5,0.672,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+15566,35.6,49.5,106.1,117.2,3.0,0.683,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+15600,29.6,45.3,96.2,113.5,0.5,0.694,UP,1,FORM ISSUE,Lifting too high - lift shoulder blades only
+15633,23.7,40.5,89.3,117.7,3.6,0.705,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+15666,21.1,35.6,83.7,114.6,11.0,0.717,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+15700,20.5,31.2,84.8,110.9,22.4,0.723,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+15733,20.6,27.4,89.2,114.5,31.7,0.721,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+15766,17.6,24.1,92.4,116.3,39.3,0.711,UP,1,FORM ISSUE,Don't pull neck - lead with chest
+15800,17.5,21.5,92.1,113.2,40.4,0.698,UP,1,FORM ISSUE,Keep hips grounded and level
+15833,13.9,19.3,95.9,119.2,70.3,0.681,UP,1,FORM ISSUE,Keep hips grounded and level
+15866,11.7,17.6,98.9,121.0,68.9,0.664,UP,1,FORM ISSUE,Keep hips grounded and level
+15900,10.8,16.1,105.4,151.7,106.0,0.645,UP,1,FORM ISSUE,Keep hips grounded and level
+15933,7.2,14.2,99.9,125.2,66.6,0.627,UP,1,FORM ISSUE,Keep hips grounded and level
+15966,6.5,12.2,98.8,120.8,72.7,0.615,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+16000,4.7,10.3,93.3,118.4,54.9,0.605,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+16033,3.9,8.4,98.4,119.4,48.0,0.595,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+16066,3.5,6.9,94.6,118.9,50.0,0.588,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+16100,3.2,5.7,93.8,118.8,50.8,0.58,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+16133,3.5,4.6,102.7,118.5,63.3,0.569,RELEASING,1,FORM ISSUE,Keep hips grounded and level
+16166,3.7,4.1,98.7,118.2,65.5,0.559,DOWN,2,FORM ISSUE,Keep hips grounded and level
+16200,2.9,3.6,97.2,119.1,62.8,0.547,DOWN,2,FORM ISSUE,Keep hips grounded and level
+16233,2.7,3.3,96.8,119.1,59.0,0.534,DOWN,2,FORM ISSUE,Keep hips grounded and level
+16266,2.6,3.2,96.1,118.6,59.1,0.524,DOWN,2,FORM ISSUE,Keep hips grounded and level
+16300,2.3,3.0,96.3,119.0,58.2,0.509,DOWN,2,FORM ISSUE,Keep hips grounded and level
+16333,,,,,,0.494,DOWN,2,LOW CONFIDENCE,Adjust camera view
+16366,,,,,,0.482,DOWN,2,LOW CONFIDENCE,Adjust camera view
+16400,,,,,,0.471,DOWN,2,LOW CONFIDENCE,Adjust camera view
+16433,,,,,,0.46,DOWN,2,LOW CONFIDENCE,Adjust camera view
+16466,,,,,,0.452,DOWN,2,LOW CONFIDENCE,Adjust camera view
+16500,,,,,,0.444,DOWN,2,LOW CONFIDENCE,Adjust camera view
+16533,,,,,,0.44,DOWN,2,LOW CONFIDENCE,Adjust camera view
+16566,,,,,,0.435,DOWN,2,LOW CONFIDENCE,Adjust camera view
+16600,,,,,,0.431,DOWN,2,LOW CONFIDENCE,Adjust camera view
+16633,,,,,,0.432,DOWN,2,LOW CONFIDENCE,Adjust camera view
+16666,,,,,,0.438,DOWN,2,LOW CONFIDENCE,Adjust camera view
+16700,,,,,,0.444,DOWN,2,LOW CONFIDENCE,Adjust camera view
+16733,,,,,,0.451,DOWN,2,LOW CONFIDENCE,Adjust camera view
+16766,,,,,,0.458,DOWN,2,LOW CONFIDENCE,Adjust camera view
+16800,,,,,,0.467,DOWN,2,LOW CONFIDENCE,Adjust camera view
+16833,,,,,,0.471,DOWN,2,LOW CONFIDENCE,Adjust camera view
+16866,,,,,,0.468,DOWN,2,LOW CONFIDENCE,Adjust camera view
+16900,,,,,,0.46,DOWN,2,LOW CONFIDENCE,Adjust camera view
+16933,,,,,,0.449,DOWN,2,LOW CONFIDENCE,Adjust camera view
+16966,,,,,,0.437,DOWN,2,LOW CONFIDENCE,Adjust camera view
+17000,,,,,,0.424,DOWN,2,LOW CONFIDENCE,Adjust camera view
+17033,,,,,,0.411,DOWN,2,LOW CONFIDENCE,Adjust camera view
+17066,,,,,,0.4,DOWN,2,LOW CONFIDENCE,Adjust camera view
+17100,,,,,,0.392,DOWN,2,LOW CONFIDENCE,Adjust camera view
+17133,,,,,,0.395,DOWN,2,LOW CONFIDENCE,Adjust camera view
+17166,,,,,,0.402,DOWN,2,LOW CONFIDENCE,Adjust camera view
+17200,,,,,,0.41,DOWN,2,LOW CONFIDENCE,Adjust camera view
+17233,,,,,,0.416,DOWN,2,LOW CONFIDENCE,Adjust camera view
+17266,,,,,,0.428,DOWN,2,LOW CONFIDENCE,Adjust camera view
+17300,,,,,,0.445,DOWN,2,LOW CONFIDENCE,Adjust camera view
+17333,,,,,,0.466,DOWN,2,LOW CONFIDENCE,Adjust camera view
+17366,,,,,,0.483,DOWN,2,LOW CONFIDENCE,Adjust camera view
+17400,57.6,10.8,116.8,144.2,35.6,0.5,DOWN,2,FORM ISSUE,Keep hips grounded and level
+17433,59.3,18.7,117.6,141.6,38.2,0.519,DOWN,2,FORM ISSUE,Keep hips grounded and level
+17466,60.4,26.8,118.4,143.0,43.0,0.541,DOWN,2,FORM ISSUE,Keep hips grounded and level
+17500,60.9,35.1,117.2,142.0,43.5,0.556,CRUNCHING,2,FORM ISSUE,Keep hips grounded and level
+17533,61.7,43.6,118.7,142.4,45.4,0.568,CRUNCHING,2,FORM ISSUE,Lifting too high - lift shoulder blades only
+17566,62.6,52.1,121.3,142.2,46.6,0.574,CRUNCHING,2,FORM ISSUE,Lifting too high - lift shoulder blades only
+17600,62.5,60.7,121.0,144.9,48.3,0.574,CRUNCHING,2,FORM ISSUE,Lifting too high - lift shoulder blades only
+17633,62.9,61.5,120.7,145.1,47.6,0.569,UP,2,FORM ISSUE,Lifting too high - lift shoulder blades only
+17666,63.6,62.1,120.8,145.7,44.6,0.562,UP,2,FORM ISSUE,Lifting too high - lift shoulder blades only
+17700,64.9,62.7,121.5,144.0,45.4,0.554,UP,2,FORM ISSUE,Lifting too high - lift shoulder blades only
+17733,64.8,63.3,121.3,145.0,45.7,0.549,UP,2,FORM ISSUE,Lifting too high - lift shoulder blades only
+17766,64.8,63.7,120.7,147.0,45.8,0.541,UP,2,FORM ISSUE,Lifting too high - lift shoulder blades only
+17800,64.9,64.0,120.6,147.1,46.9,0.532,UP,2,FORM ISSUE,Lifting too high - lift shoulder blades only
+17833,65.1,64.4,120.5,144.3,46.5,0.525,UP,2,FORM ISSUE,Lifting too high - lift shoulder blades only
+17866,65.1,64.7,119.7,144.8,46.9,0.517,UP,2,FORM ISSUE,Lifting too high - lift shoulder blades only
+17900,64.8,64.9,119.9,144.4,46.4,0.509,UP,2,FORM ISSUE,Lifting too high - lift shoulder blades only
+17933,,,,,,0.499,UP,2,LOW CONFIDENCE,Adjust camera view
+17966,,,,,,0.486,UP,2,LOW CONFIDENCE,Adjust camera view
+18000,,,,,,0.48,UP,2,LOW CONFIDENCE,Adjust camera view
+18033,,,,,,0.477,UP,2,LOW CONFIDENCE,Adjust camera view
+18066,,,,,,0.479,UP,2,LOW CONFIDENCE,Adjust camera view
+18100,,,,,,0.485,UP,2,LOW CONFIDENCE,Adjust camera view
+18133,,,,,,0.492,UP,2,LOW CONFIDENCE,Adjust camera view
+18166,62.4,64.5,120.8,143.6,38.5,0.504,UP,2,FORM ISSUE,Lifting too high - lift shoulder blades only
+18200,61.6,64.1,121.1,147.1,31.6,0.521,UP,2,FORM ISSUE,Lifting too high - lift shoulder blades only
+18233,60.7,63.5,120.5,143.3,31.4,0.536,UP,2,FORM ISSUE,Lifting too high - lift shoulder blades only
+18266,60.2,62.9,120.0,143.4,28.7,0.554,UP,2,FORM ISSUE,Lifting too high - lift shoulder blades only
+18300,59.8,62.1,119.3,143.8,25.2,0.573,UP,2,FORM ISSUE,Lifting too high - lift shoulder blades only
+18333,60.1,61.4,119.2,141.5,24.3,0.593,UP,2,FORM ISSUE,Lifting too high - lift shoulder blades only
+18366,60.4,60.8,120.2,142.4,22.0,0.615,UP,2,FORM ISSUE,Lifting too high - lift shoulder blades only
+18400,60.5,60.5,123.5,142.2,0.2,0.635,UP,2,FORM ISSUE,Lifting too high - lift shoulder blades only
+18433,59.8,60.2,123.0,143.0,4.3,0.653,UP,2,FORM ISSUE,Lifting too high - lift shoulder blades only
+18466,61.0,60.3,127.4,143.3,5.2,0.669,UP,2,FORM ISSUE,Lifting too high - lift shoulder blades only
+18500,61.5,60.5,120.5,135.3,10.0,0.681,UP,2,FORM ISSUE,Lifting too high - lift shoulder blades only
+18533,59.8,60.5,121.5,134.6,22.9,0.688,UP,2,FORM ISSUE,Lifting too high - lift shoulder blades only
+18566,55.1,59.7,117.5,131.2,11.5,0.692,UP,2,FORM ISSUE,Lifting too high - lift shoulder blades only
+18600,49.1,58.1,113.4,127.9,6.1,0.694,UP,2,FORM ISSUE,Lifting too high - lift shoulder blades only
+18633,43.6,55.7,111.2,124.2,8.0,0.694,UP,2,FORM ISSUE,Lifting too high - lift shoulder blades only
+18666,37.3,52.5,99.2,123.2,2.9,0.695,UP,2,FORM ISSUE,Lifting too high - lift shoulder blades only
+18700,32.1,48.4,93.3,120.0,1.8,0.696,UP,2,FORM ISSUE,Lifting too high - lift shoulder blades only
+18733,27.4,43.5,94.9,115.6,4.2,0.7,UP,2,FORM ISSUE,Lifting too high - lift shoulder blades only
+18766,22.0,38.1,81.6,112.1,3.7,0.705,UP,2,FORM ISSUE,Don't pull neck - lead with chest
+18800,20.9,33.2,77.3,108.2,12.4,0.71,UP,2,FORM ISSUE,Don't pull neck - lead with chest
+18833,19.8,29.0,75.2,102.0,20.7,0.716,UP,2,FORM ISSUE,Don't pull neck - lead with chest
+18866,14.4,24.9,76.0,106.6,16.6,0.721,UP,2,FORM ISSUE,Don't pull neck - lead with chest
+18900,12.6,21.3,79.5,104.3,21.9,0.725,UP,2,FORM ISSUE,Don't pull neck - lead with chest
+18933,10.2,18.2,78.6,107.0,25.9,0.728,UP,2,FORM ISSUE,Don't pull neck - lead with chest
+18966,6.8,15.3,79.2,104.0,24.1,0.73,UP,2,FORM ISSUE,Don't pull neck - lead with chest
+19000,3.5,12.6,77.8,103.3,25.9,0.732,UP,2,FORM ISSUE,Don't pull neck - lead with chest
+19033,4.0,10.2,78.3,105.3,27.3,0.731,RELEASING,2,FORM ISSUE,Keep hips grounded and level
+19066,2.4,7.7,79.4,108.3,26.5,0.729,RELEASING,2,FORM ISSUE,Keep hips grounded and level
+19100,1.7,5.9,83.8,111.4,27.8,0.724,RELEASING,2,FORM ISSUE,Keep hips grounded and level
+19133,3.0,4.5,81.9,109.5,28.0,0.716,RELEASING,2,FORM ISSUE,Keep hips grounded and level
+19166,2.7,3.5,82.5,110.0,27.2,0.709,DOWN,3,FORM ISSUE,Keep hips grounded and level
+19200,2.3,2.8,85.1,107.8,27.5,0.7,DOWN,3,FORM ISSUE,Keep hips grounded and level
+19233,2.9,2.7,78.3,101.4,34.0,0.688,DOWN,3,FORM ISSUE,Keep hips grounded and level
+19266,2.0,2.4,80.3,102.5,35.5,0.674,DOWN,3,FORM ISSUE,Keep hips grounded and level
+19300,1.9,2.4,79.2,101.1,37.4,0.659,DOWN,3,FORM ISSUE,Keep hips grounded and level
+19333,2.4,2.5,80.5,99.4,36.4,0.642,DOWN,3,FORM ISSUE,Keep hips grounded and level
+19366,2.5,2.4,82.8,102.5,33.0,0.624,DOWN,3,FORM ISSUE,Keep hips grounded and level
+19400,2.5,2.4,84.7,103.7,32.8,0.605,DOWN,3,FORM ISSUE,Keep hips grounded and level
+19433,1.6,2.3,85.1,107.5,30.5,0.584,DOWN,3,FORM ISSUE,Keep hips grounded and level
+19466,2.1,2.1,86.1,109.5,31.6,0.563,DOWN,3,FORM ISSUE,Keep hips grounded and level
+19500,1.9,2.1,85.8,114.2,31.9,0.546,DOWN,3,FORM ISSUE,Keep hips grounded and level
+19533,0.8,2.0,82.5,115.2,31.2,0.528,DOWN,3,FORM ISSUE,Keep hips grounded and level
+19566,1.0,1.8,83.8,120.6,27.0,0.51,DOWN,3,FORM ISSUE,Keep hips grounded and level
+19600,,,,,,0.491,DOWN,3,LOW CONFIDENCE,Adjust camera view
+19633,,,,,,0.469,DOWN,3,LOW CONFIDENCE,Adjust camera view
+19666,,,,,,0.448,DOWN,3,LOW CONFIDENCE,Adjust camera view
+19700,,,,,,0.427,DOWN,3,LOW CONFIDENCE,Adjust camera view
+19733,,,,,,0.406,DOWN,3,LOW CONFIDENCE,Adjust camera view
+19766,,,,,,0.385,DOWN,3,LOW CONFIDENCE,Adjust camera view
+19800,,,,,,0.366,DOWN,3,LOW CONFIDENCE,Adjust camera view
+19833,,,,,,0.35,DOWN,3,LOW CONFIDENCE,Adjust camera view
+19866,,,,,,0.337,DOWN,3,LOW CONFIDENCE,Adjust camera view
+19900,,,,,,0.326,DOWN,3,LOW CONFIDENCE,Adjust camera view
+19933,,,,,,0.317,DOWN,3,LOW CONFIDENCE,Adjust camera view
+19966,,,,,,0.31,DOWN,3,LOW CONFIDENCE,Adjust camera view
+20000,,,,,,0.306,DOWN,3,LOW CONFIDENCE,Adjust camera view
+20033,,,,,,0.302,DOWN,3,LOW CONFIDENCE,Adjust camera view
+20066,,,,,,0.297,DOWN,3,LOW CONFIDENCE,Adjust camera view
+20100,,,,,,0.292,DOWN,3,LOW CONFIDENCE,Adjust camera view
+20133,,,,,,0.286,DOWN,3,LOW CONFIDENCE,Adjust camera view
+20166,,,,,,0.278,DOWN,3,LOW CONFIDENCE,Adjust camera view
+20200,,,,,,0.27,DOWN,3,LOW CONFIDENCE,Adjust camera view
+20233,,,,,,0.262,DOWN,3,LOW CONFIDENCE,Adjust camera view
+20266,,,,,,0.257,DOWN,3,LOW CONFIDENCE,Adjust camera view
+20300,,,,,,0.254,DOWN,3,LOW CONFIDENCE,Adjust camera view
+20333,,,,,,0.253,DOWN,3,LOW CONFIDENCE,Adjust camera view
+20366,,,,,,0.253,DOWN,3,LOW CONFIDENCE,Adjust camera view
+20400,,,,,,0.254,DOWN,3,LOW CONFIDENCE,Adjust camera view
+20433,,,,,,0.254,DOWN,3,LOW CONFIDENCE,Adjust camera view
+20466,,,,,,0.254,DOWN,3,LOW CONFIDENCE,Adjust camera view
+20500,,,,,,0.255,DOWN,3,LOW CONFIDENCE,Adjust camera view
+20533,,,,,,0.255,DOWN,3,LOW CONFIDENCE,Adjust camera view
+20566,,,,,,0.255,DOWN,3,LOW CONFIDENCE,Adjust camera view
+20600,,,,,,0.256,DOWN,3,LOW CONFIDENCE,Adjust camera view
+20633,,,,,,0.261,DOWN,3,LOW CONFIDENCE,Adjust camera view
+20666,,,,,,0.276,DOWN,3,LOW CONFIDENCE,Adjust camera view
+20700,,,,,,0.299,DOWN,3,LOW CONFIDENCE,Adjust camera view
+20733,,,,,,0.318,DOWN,3,LOW CONFIDENCE,Adjust camera view
+20766,,,,,,0.336,DOWN,3,LOW CONFIDENCE,Adjust camera view
+20800,,,,,,0.355,DOWN,3,LOW CONFIDENCE,Adjust camera view
+20833,,,,,,0.377,DOWN,3,LOW CONFIDENCE,Adjust camera view
+20866,,,,,,0.394,DOWN,3,LOW CONFIDENCE,Adjust camera view
+20900,,,,,,0.404,DOWN,3,LOW CONFIDENCE,Adjust camera view
+20933,,,,,,0.404,DOWN,3,LOW CONFIDENCE,Adjust camera view
+20966,,,,,,0.403,DOWN,3,LOW CONFIDENCE,Adjust camera view
+21000,,,,,,0.403,DOWN,3,LOW CONFIDENCE,Adjust camera view
+21033,,,,,,0.401,DOWN,3,LOW CONFIDENCE,Adjust camera view
+21066,,,,,,0.39,DOWN,3,LOW CONFIDENCE,Adjust camera view
+21100,,,,,,0.379,DOWN,3,LOW CONFIDENCE,Adjust camera view
+21133,,,,,,0.362,DOWN,3,LOW CONFIDENCE,Adjust camera view
+21166,,,,,,0.347,DOWN,3,LOW CONFIDENCE,Adjust camera view
+21200,,,,,,0.333,DOWN,3,LOW CONFIDENCE,Adjust camera view
+21233,,,,,,0.325,DOWN,3,LOW CONFIDENCE,Adjust camera view
+21266,,,,,,0.318,DOWN,3,LOW CONFIDENCE,Adjust camera view
+21300,,,,,,0.314,DOWN,3,LOW CONFIDENCE,Adjust camera view
+21333,,,,,,0.319,DOWN,3,LOW CONFIDENCE,Adjust camera view
+21366,,,,,,0.328,DOWN,3,LOW CONFIDENCE,Adjust camera view
+21400,,,,,,0.338,DOWN,3,LOW CONFIDENCE,Adjust camera view
+21433,,,,,,0.344,DOWN,3,LOW CONFIDENCE,Adjust camera view
+21466,,,,,,0.348,DOWN,3,LOW CONFIDENCE,Adjust camera view
+21500,,,,,,0.352,DOWN,3,LOW CONFIDENCE,Adjust camera view
+21533,,,,,,0.356,DOWN,3,LOW CONFIDENCE,Adjust camera view
+21566,,,,,,0.353,DOWN,3,LOW CONFIDENCE,Adjust camera view
+21600,,,,,,0.351,DOWN,3,LOW CONFIDENCE,Adjust camera view
+21633,,,,,,0.353,DOWN,3,LOW CONFIDENCE,Adjust camera view
+21666,,,,,,0.362,DOWN,3,LOW CONFIDENCE,Adjust camera view
+21700,,,,,,0.373,DOWN,3,LOW CONFIDENCE,Adjust camera view
+21733,,,,,,0.39,DOWN,3,LOW CONFIDENCE,Adjust camera view
+21766,,,,,,0.411,DOWN,3,LOW CONFIDENCE,Adjust camera view
+21800,,,,,,0.438,DOWN,3,LOW CONFIDENCE,Adjust camera view
+21833,,,,,,0.468,DOWN,3,LOW CONFIDENCE,Adjust camera view
+21866,,,,,,0.499,DOWN,3,LOW CONFIDENCE,Adjust camera view
+21900,75.2,12.2,157.9,167.1,11.0,0.531,DOWN,3,FORM ISSUE,Keep hips grounded and level
+21933,76.1,22.7,158.6,165.4,10.0,0.56,DOWN,3,FORM ISSUE,Keep hips grounded and level
+21966,78.3,33.6,158.0,167.1,8.4,0.586,DOWN,3,FORM ISSUE,Keep hips grounded and level
+22000,79.0,44.6,159.2,169.8,5.9,0.608,CRUNCHING,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+22033,79.7,55.7,162.2,173.7,3.5,0.623,CRUNCHING,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+22066,80.3,67.1,163.1,174.1,2.3,0.636,CRUNCHING,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+22100,82.0,78.7,165.1,175.4,0.4,0.648,CRUNCHING,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+22133,82.4,79.7,168.1,176.0,2.4,0.655,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+22166,83.3,80.7,167.3,177.3,6.4,0.66,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+22200,82.5,81.3,166.3,177.3,6.0,0.663,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+22233,83.9,82.0,174.5,177.0,3.2,0.666,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+22266,84.3,82.7,175.9,176.5,1.7,0.674,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+22300,84.9,83.3,177.2,173.6,1.1,0.681,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+22333,86.4,83.9,179.7,175.9,1.9,0.689,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+22366,87.7,84.7,177.6,175.7,3.5,0.699,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+22400,89.3,85.6,174.5,175.3,3.0,0.711,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+22433,87.8,86.3,174.4,175.5,3.7,0.727,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+22466,86.3,86.7,176.3,175.6,3.9,0.744,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+22500,85.8,86.9,179.4,175.5,4.4,0.761,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+22533,85.5,87.0,176.8,175.5,6.4,0.776,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+22566,85.8,86.9,175.0,176.3,9.4,0.791,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+22600,85.3,86.5,176.1,175.2,14.3,0.807,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+22633,84.2,85.8,170.4,173.7,19.9,0.821,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+22666,83.8,85.3,174.2,172.1,37.1,0.834,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+22700,82.6,84.7,179.2,167.4,34.9,0.845,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+22733,82.6,84.3,177.7,160.5,33.8,0.853,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+22766,81.5,83.7,175.4,154.6,33.9,0.859,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+22800,81.1,83.0,175.7,152.3,49.1,0.864,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+22833,81.1,82.4,178.1,152.1,45.4,0.869,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+22866,81.3,82.0,177.5,150.4,45.0,0.873,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+22900,81.0,81.6,173.2,148.7,46.2,0.878,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+22933,80.9,81.3,173.2,146.9,45.2,0.881,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+22966,80.0,81.0,166.5,147.7,60.6,0.881,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+23000,79.9,80.7,127.4,161.1,81.9,0.878,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+23033,79.0,80.4,59.8,19.0,86.9,0.863,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+23066,89.2,81.6,127.3,170.5,90.2,0.85,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+23100,89.4,82.8,135.0,166.1,86.8,0.836,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+23133,88.9,83.9,142.4,174.4,93.5,0.823,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+23166,87.6,84.9,152.7,178.4,93.3,0.812,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+23200,86.8,85.8,156.3,179.4,67.3,0.804,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+23233,86.7,86.8,149.8,176.3,52.6,0.799,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+23266,86.9,87.9,148.3,176.8,44.1,0.804,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+23300,82.9,87.0,148.5,167.9,1.8,0.808,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+23333,80.9,85.8,149.0,159.2,52.9,0.809,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+23366,75.6,83.9,154.6,147.9,26.7,0.807,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only
+23400,76.2,82.3,151.4,144.6,106.0,0.798,UP,3,FORM ISSUE,Lifting too high - lift shoulder blades only

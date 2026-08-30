@@ -40,12 +40,15 @@ RIGHT_FOOT_INDEX = 32
 
 # Key landmarks required for reliable full-body pose analysis
 REQUIRED_LANDMARKS = [
+    NOSE,
     LEFT_SHOULDER, RIGHT_SHOULDER,
     LEFT_ELBOW, RIGHT_ELBOW,
     LEFT_WRIST, RIGHT_WRIST,
     LEFT_HIP, RIGHT_HIP,
     LEFT_KNEE, RIGHT_KNEE,
     LEFT_ANKLE, RIGHT_ANKLE,
+    LEFT_HEEL, RIGHT_HEEL,
+    LEFT_FOOT_INDEX, RIGHT_FOOT_INDEX,
 ]
 
 # Standard 33-point pose skeleton connections

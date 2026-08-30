@@ -162,9 +162,14 @@ def main():
 
             if result.pose_landmarks and len(result.pose_landmarks) > 0:
                 raw_landmarks = result.pose_landmarks[0]
+                raw_world_landmarks = (
+                    result.pose_world_landmarks[0]
+                    if (hasattr(result, "pose_world_landmarks") and result.pose_world_landmarks and len(result.pose_world_landmarks) > 0)
+                    else None
+                )
 
-                # 1. Extract raw bilateral geometry & angles
-                raw_features = extract_yoga_features(raw_landmarks)
+                # 1. Extract raw bilateral geometry & angles (using 3D world coords when available)
+                raw_features = extract_yoga_features(raw_landmarks, world_landmarks=raw_world_landmarks)
 
                 # 2. Apply temporal smoothing
                 smoothed_features = smoother.update(raw_features)
